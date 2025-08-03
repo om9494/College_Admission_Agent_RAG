@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /api/
+Disallow: /private/
+Disallow: /admin/
+Disallow: /node_modules/
+Disallow: /build/
+Allow: /
+
+Sitemap: http://localhost:5173/README.md

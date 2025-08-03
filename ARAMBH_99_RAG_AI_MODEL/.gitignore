@@ -1,0 +1,7 @@
+fastenv
+__pycache__
+chroma_db
+rag_app.db 
+app.log
+venv
+.env

@@ -1,0 +1,2263 @@
+College: 1
+name: CMRB Government Polytechnic College
+administrator: admin1
+information: CMRB Government Polytechnic College, located in Sri Ganganagar, Rajasthan, offers diploma courses in Electrical, Civil, and Mechanical Engineering, each with a capacity of 60 students. The college features an administrative block, electrical and workshop blocks, and a library with 14,100 volumes and 9 journals. Admission eligibility includes relevant diploma or ITI qualifications. Top recruiters include SKH Group, Bal Krishna Industries, JCB, and Adani Mundra Solar Pvt Ltd, with placement highlights such as 6 students joining Adani Mundra. The fee structure is ₹12,500
+address: Jassa Singh Road, Bhambhu Colony, Setia Farm, Sri Ganganagar, Rajasthan
+
+contact: {'person': 'Bhupender Singh, Lecturer in Computer Engineering', 'phone': '8058051716', 'email': 'csebhupens@gmail.com', '_id': ObjectId('67503ad94114e4082b169159')}
+websites: 
+infrastructure: library: 14,100 volumes, 1,340 titles, 9 journals, reading facility (9 AM - 4 PM)
+; hostel: Not available
+; canteen: Not mentioned; sports: Not mentioned; labs: Not specified in detail
+; classrooms: Not mentioned; other: 
+courses: {'name': 'Electrical Engineering', 'seats': '60\n', 'fees': '12500', 'eligibility': 'Candidate should have passed Diploma in Engineering / 12th with Science vocational / 10th + (2 Years ITI) / 12th with (PCM/PCB).', '_id': ObjectId('67503ad94114e4082b16915b')}, {'name': 'Civil Engineering', 'seats': '60', 'fees': '12500', 'eligibility': 'Candidate should have passed Diploma in Engineering / 12th with Science vocational / 10th + (2 Years ITI) / 12th with (PCM/PCB).', '_id': ObjectId('67506fbf48c37792200ed391')}, {'name': 'Mechanical Engineering', 'seats': '60\n', 'fees': '12500', 'eligibility': 'Candidate should have passed Diploma in Engineering / 12th with Science vocational / 10th + (2 Years ITI) / 12th with (PCM/PCB).', '_id': ObjectId('67506fbf48c37792200ed392')}
+admission_process: Not Available
+cutoff: Not Mentioned
+placement: topRecruiters: SKH Group
+Bal Krishna Industries
+JCB Balabhgarh
+Adani Mundra Solar Pvt Ltd
+; statistics: 
+5 students placed at SKH Group
+1 student at Bal Krishna Industries
+5 students at JCB Balabhgarh
+6 students at Adani Mundra Solar Pvt Ltd
+; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: CMRB Government Polytechnic College is established in 1994 and is located at Jassa Singh
+Road, Bhambhu Colony, Setia Farm, Sri Ganganagar, Rajasthan. CMRB Government
+Polytechnic College is built on 6.4 acres of land generously donated by Bhama Shah Late
+Shree Choudhry Maloo Ram Bhambhu. CMRB Government Polytechnic College is affiliated
+with the All India Council for Technical Education (AICTE) and the Board of Technical
+Education Rajasthan (BTER). Key highlights of CMRB Government Polytechnic College
+include its approval by AICTE and affiliation with BTER.
+CMRB Government Polytechnic College offers branches such as Electrical Engineering, Civil
+Engineering, and Mechanical Engineering. CMRB Government Polytechnic College has an
+infrastructure that includes an Administrative Block, an Electrical Block, and a Workshop
+Block. CMRB Government Polytechnic College provides a library with 14,100 volumes, 1,340
+titles, 9 journals, and a reading facility available from 9 AM to 4 PM.
+CMRB Government Polytechnic College offers programs in Electrical Engineering, Civil
+Engineering, and Mechanical Engineering with an intake of 60 students per branch, totaling
+180 students. CMRB Government Polytechnic College faculty includes Bhupender Singh,
+Lecturer in Computer Engineering, who can be contacted at 8058051716 or via email at
+csebhupens@gmail.com.
+CMRB Government Polytechnic College achieved notable placements in the session 2019-20
+with 5 students placed at SKH Group, 1 student at Bal Krishna Industries, 5 students at JCB
+Balabhgarh, and 6 students at Adani Mundra Solar Pvt Ltd, among others.
+__v: 0
+committees: 
+files: 
+
+
+College: 2
+name: Government Engineering College, Barmer
+administrator: admin2
+information: 
+address: Campus Office at Government Polytechnic College Barmer, N.H. 68, Jaisalmer Road, Barmer
+
+contact: {'person': '', 'phone': ' +91-9119268187', 'email': '', '_id': ObjectId('6751340d44774ef62afe43a1')}, {'person': '', 'phone': '9460394649', 'email': '', '_id': ObjectId('675135ae2abb21bba930ab41')}, {'person': '', 'phone': '', 'email': 'principal@gecbarmer.ac.in', '_id': ObjectId('675135ae2abb21bba930ab42')}, {'person': '', 'phone': '', 'email': 'info.gecbarmer@gmail.com', '_id': ObjectId('675135ae2abb21bba930ab43')}
+websites: {'name': 'Government Polytechnic College, Barmer', 'link': 'https://hte.rajasthan.gov.in/college/gpcbarmer', '_id': ObjectId('6751340d44774ef62afe43a2')}
+infrastructure: library:  Not mentioned; hostel: Boys: 120 students
+Girls: 30 students
+Amenities: 24-hour power supply, Wi-Fi, cold water, hygienic premises, spacious rooms, clean toilets
+; canteen: Mess with nutritious menu, hygienic dining halls; sports: Badminton court, volleyball court, gym, playground
+; labs: Not mentioned; classrooms: Not mentioned; other: 
+Campus Office
+Hostels (Boys and Girls)
+Sports Facilities
+Gym
+Dining Halls
+Playground
+
+courses: {'name': 'Chemical Engineering', 'seats': '30', 'fees': ' INR 1.96 lakhs', 'eligibility': '12th(with Physics And / Or maths stream)\n', '_id': ObjectId('6751340d44774ef62afe43a3')}, {'name': 'Civil Engineering', 'seats': '', 'fees': ' INR 1.96 lakhs', 'eligibility': '12th(with Physics And / Or maths stream)\n', '_id': ObjectId('675135ae2abb21bba930ab46')}, {'name': 'Computer Science and Engineering (AI & Machine Learning)', 'seats': '30', 'fees': ' INR 1.96 lakhs', 'eligibility': '12th(with Physics And / Or maths stream)\n', '_id': ObjectId('675135ae2abb21bba930ab47')}, {'name': 'Electrical Engineering', 'seats': '', 'fees': ' INR 1.96 lakhs', 'eligibility': '12th(with Physics And / Or maths stream)\n', '_id': ObjectId('675135ae2abb21bba930ab48')}, {'name': 'Electronics and Communication Engineering', 'seats': '', 'fees': ' INR 1.96 lakhs', 'eligibility': '12th(with Physics And / Or maths stream)\n', '_id': ObjectId('675135ae2abb21bba930ab49')}, {'name': 'Mechanical Engineering', 'seats': '', 'fees': ' INR 1.96 lakhs', 'eligibility': '12th(with Physics And / Or maths stream)\n', '_id': ObjectId('675135ae2abb21bba930ab4a')}, {'name': 'Petroleum Engineering', 'seats': '60', 'fees': ' INR 1.96 lakhs', 'eligibility': '12th(with Physics And / Or maths stream)\n', '_id': ObjectId('675135ae2abb21bba930ab4b')}
+placement: topRecruiters: Not mentioned
+; statistics: Not mentioned
+; averagePackages: ; other: 
+alumni: 
+__v: 0
+events_activities: regular talent shows, dramatics, and literary events,
+other: Government Engineering College, Barmer is located at its Campus Office in Government
+Polytechnic College Barmer, N.H. 68, Jaisalmer Road, Barmer. Government Engineering
+College, Barmer can be reached through its help desk phone numbers +91-9119268187 and
+9460394649 or via email at principal@gecbarmer.ac.in or info.gecbarmer@gmail.com.
+Government Engineering College, Barmer offers programmes in Chemical Engineering, Civil
+Engineering, Computer Science and Engineering (AI & Machine Learning), Electrical
+Engineering, Electronics and Communication Engineering, Mechanical Engineering, and
+Petroleum Engineering.
+Government Engineering College, Barmer provides a hostel for boys with occupancy for 120
+students and a hostel for girls with occupancy for 30 students. Government Engineering
+College, Barmer ensures basic facilities including a 24-hour power supply, Wi-Fi connectivity,
+cold water availability, clean and hygienic premises that are periodically disinfected, and
+spacious and comfortable rooms with clean toilets.
+Government Engineering College, Barmer offers dining and nutrition facilities with a mess
+staffed by dedicated personnel, a nutritious menu with variety, and furnished and hygienic
+dining halls. Government Engineering College, Barmer supports recreational activities with
+sports facilities such as a badminton court and volleyball court, a well-equipped gym, activity
+rooms, and playgrounds.
+Government Engineering College, Barmer ensures health and safety through 24-hour security
+and medical facilities. Government Engineering College, Barmer promotes key values such as
+integrity, mindfulness, cooperation, open-mindedness, and hard work while maintaining
+pollution-free premises with strict rules against polythene, alcohol, and smoking. Government
+Engineering College, Barmer enforces zero tolerance for unlawful acts, including ragging.
+Government Engineering College, Barmer conducts cultural and social activities such as
+regular talent shows, dramatics, and literary events, fostering mutual cooperation and living
+in harmony as one family.
+
+
+College: 3
+name: Government Polytechnic College, Ajmer
+administrator: admin3
+information: Government Polytechnic College, Ajmer, located on Nasirabad Road, offers diploma courses in Civil, Mechanical, Electrical, and Electronics Engineering with a fee structure of ₹37,500 for three years. The campus includes a girls' hostel with essential furniture and security. Eligibility criteria include passing 10th grade or lateral entry through a diploma or 12th Science. Top recruiters include Asian Paints, Bajaj Auto, TATA Power, and UltraTech Cement. An alumni association is present.
+
+address: Makhupura, Nasirabad Road, Ajmer - 305001, Rajasthan, India
+
+contact: {'person': '', 'phone': ' 0145-2695195', 'email': '', '_id': ObjectId('675136122abb21bba930ab62')}
+websites: {'name': 'Government Polytechnic College, Ajmer', 'link': 'https://hte.rajasthan.gov.in/college/gpcajmer', '_id': ObjectId('675136122abb21bba930ab63')}
+infrastructure: library: Not mentioned; hostel:  Girls' hostel with basic furniture and security
+; canteen: Not mentioned; sports: Not mentioned; labs: Not mentioned; classrooms: Not mentioned; other: Campus with essential amenities
+Hostel for girls (non-AC, equipped with beds, tables, chairs, wardrobes, and security)
+
+courses: {'name': 'Civil Engineering', 'seats': '', 'fees': ' ₹37,500 for three years (₹12,500 per year)', 'eligibility': 'First Year: Passed 10th grade from RBSE, CBSE, or an equivalent board\nLateral Entry: Completed Diploma in Engineering or 12th Science', '_id': ObjectId('675136122abb21bba930ab64')}, {'name': 'Mechanical Engineering', 'seats': '', 'fees': ' ₹37,500 for three years (₹12,500 per year)', 'eligibility': 'First Year: Passed 10th grade from RBSE, CBSE, or an equivalent board\nLateral Entry: Completed Diploma in Engineering or 12th Science', '_id': ObjectId('6751372196a7fc008bdc7942')}, {'name': 'Electrical Engineering', 'seats': '', 'fees': ' ₹37,500 for three years (₹12,500 per year)', 'eligibility': 'First Year: Passed 10th grade from RBSE, CBSE, or an equivalent board\nLateral Entry: Completed Diploma in Engineering or 12th Science', '_id': ObjectId('6751372196a7fc008bdc7943')}, {'name': 'Electronics Engineering', 'seats': '', 'fees': ' ₹37,500 for three years (₹12,500 per year)', 'eligibility': 'First Year: Passed 10th grade from RBSE, CBSE, or an equivalent board\nLateral Entry: Completed Diploma in Engineering or 12th Science', '_id': ObjectId('6751372196a7fc008bdc7944')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: Asian Paints
+Bajaj Auto
+JK Tyre
+TATA Power
+JSW Steel Ltd
+UltraTech Cement
+Unilever
+GlaxoSmithKline Pharmaceuticals (GSK)
+Grasim Industries
+LUMAX
+Larsen & Toubro Limited
+; statistics: Not mentioned; averagePackages: Not mentioned; other: 
+alumni: Alumni association present (no further details provided)
+
+events_activities: 
+governance: 
+other: Government Polytechnic College, Ajmer is established in 1958 and is located at Makhupura,
+Nasirabad Road, Ajmer - 305001, Rajasthan, India. Government Polytechnic College, Ajmer is a
+public institute offering diploma programs under the guidance of Principal Ashok Kumar.
+Government Polytechnic College, Ajmer can be contacted at 0145-2695195 or through its official
+website at [hte.rajasthan.gov.in/college/gpcajmer](hte.rajasthan.gov.in/college/gpcajmer).
+Government Polytechnic College, Ajmer offers diploma programs in Civil Engineering, Mechanical
+Engineering, Electrical Engineering, and Electronics Engineering. Government Polytechnic College,
+Ajmer has specific admission requirements: for the first year, students must have passed the 10th
+grade from RBSE, CBSE, or an equivalent board, while lateral entry is available for students who
+have passed a Diploma in Engineering or 12th Science.
+Government Polytechnic College, Ajmer maintains uniform eligibility criteria, requiring candidates
+for the first year to have passed the 10th grade from RBSE, CBSE, or an equivalent board, and for
+lateral entry, candidates must have completed a Diploma in Engineering or 12th Science.
+Government Polytechnic College, Ajmer had notable placements in 2024, with top companies
+such as Asian Paints, Bajaj Auto, JK Tyre, TATA Power, JSW Steel Ltd, UltraTech Cement, Unilever,
+GlaxoSmithKline Pharmaceuticals (GSK), Grasim Industries, LUMAX, and Larsen & Toubro Limited
+recruiting students.
+Government Polytechnic College, Ajmer offers diploma programs with a fee structure of ₹37,500
+for three years (₹12,500 per year) for Civil Engineering, Electrical Engineering, Electronics
+Engineering, and Mechanical Engineering.
+Government Polytechnic College, Ajmer provides hostel facilities for girls with non-AC rooms
+equipped with furniture such as beds, tables, chairs, and wardrobes, along with other amenities
+like security. Detailed fee information is available upon inquiry.
+Government Polytechnic College, Ajmer offers scholarships, but specific details are not provided.
+Government Polytechnic College, Ajmer has an alumni association, though no further information
+is available. Government Polytechnic College, Ajmer follows an admission process, but specific
+details are not disclosed.
+__v: 0
+
+
+College: 4
+name: Government Polytechnic College, Alwar
+administrator: Not available
+information: Not available
+address: Not available
+contact: {'person': 'Not available', 'phone': 'Not available', 'email': 'Not available', '_id': ObjectId('675acc08dde6d0a5add83835')}
+websites: {'name': 'Official Website', 'link': 'hte.rajasthan.gov.in/college/gpcalwar', '_id': ObjectId('675acc08dde6d0a5add83836')}
+infrastructure: library: Not available; hostel: Available; canteen: Not available; sports: Not available; labs: Not available; classrooms: Not available; other: Not available
+courses: {'name': 'Civil Engineering', 'seats': 'Not available', 'fees': '₹12,000 to ₹35,000', 'eligibility': 'Not available', '_id': ObjectId('675acc08dde6d0a5add83837')}, {'name': 'Mechanical Engineering', 'seats': 'Not available', 'fees': '₹12,000 to ₹35,000', 'eligibility': 'Not available', '_id': ObjectId('675acc08dde6d0a5add83838')}, {'name': 'Electrical Engineering', 'seats': 'Not available', 'fees': '₹12,000 to ₹35,000', 'eligibility': 'Not available', '_id': ObjectId('675acc08dde6d0a5add83839')}, {'name': 'Electronics Engineering', 'seats': 'Not available', 'fees': '₹12,000 to ₹35,000', 'eligibility': 'Not available', '_id': ObjectId('675acc08dde6d0a5add8383a')}, {'name': 'Information Technology', 'seats': 'Not available', 'fees': '₹12,000 to ₹35,000', 'eligibility': 'Not available', '_id': ObjectId('675acc08dde6d0a5add8383b')}
+admission_process: Admission is based on merit from the qualifying examination (10th standard).  First-year admission candidates must have passed the 10th grade from RBSE, CBSE, or other equivalent boards.  Lateral entry admission is available for candidates with a Diploma in Engineering, 12th Science Vocational/Technical, or 10+2 with a 2-year ITI/Equivalent for admission to the second year of diploma courses. Applications must be submitted through official portals provided by the Directorate of Technical Education in Rajasthan. Last date to apply is September 30, 2024.
+cutoff: Not available
+placement: topRecruiters: L&T EduTech; statistics: Not available; averagePackages: Not available; other: Placement cell available
+alumni: Alumni association for networking and mentorship opportunities
+events_activities: Not available
+governance: Not available
+other: Hostel facilities are available but specific amenities and availability details need to be confirmed directly with the college. Merit-based and financial-need-based scholarships are provided. For detailed scholarship information, check the official website or contact the college administration.
+__v: 0
+committees: Not available
+
+
+College: 5
+name: Government Polytechnic College, Bagidora, Banswara
+administrator: admin5
+information: Government Polytechnic College, Banswara, established in 1992, offers 3-year diploma programs in Mechanical, Electrical, and Civil Engineering with an intake of 40-60 seats per branch and fees of ₹12,500 annually. Affiliated with the Board of Technical Education and Directorate of Technical Education, Jodhpur, the college is recognized for its quality technical education in Rajasthan.
+
+address: Village Lodha, Opposite Mayur Mill, Banswara, Rajasthan, India
+contact: {'person': '', 'phone': ' 2962-254729', 'email': 'gpc.banswara@gmail.com', '_id': ObjectId('67513935c0e7db9f4f6a078f')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcbanswara', '_id': ObjectId('67513935c0e7db9f4f6a0790')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: 
+courses: {'name': 'Mechanical Engineering', 'seats': '40 seats\n', 'fees': ' ₹12,500 per year\n', 'eligibility': '', '_id': ObjectId('67513935c0e7db9f4f6a0791')}, {'name': 'Electrical Engineering', 'seats': '40 seats\n', 'fees': ' ₹12,500 per year\n', 'eligibility': '', '_id': ObjectId('67513b99ae762c273a275548')}, {'name': 'Civil Engineering', 'seats': '60 seats\n', 'fees': ' ₹12,500 per year\n', 'eligibility': '', '_id': ObjectId('67513b99ae762c273a275549')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: Reputation: A well-regarded institution for engineering and technology courses in Rajasthan.
+Standard Compliance: Courses are conducted in accordance with the standards of the Board of Technical Education and the Directorate of Technical Education, Jodhpur.
+
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College, Bagidora, located in Banswara, offers diploma programs in Computer Science Engineering, Electronics Engineering, Robotics Engineering, and Electrical Engineering, each with a three-year duration. Admissions are based on entrance exams and merit, with first-year candidates required to have completed the 10th grade from CBSE, RBSE, or equivalent boards. Lateral entry is available for candidates with 12th Science Vocational/Technical or equivalent qualifications. The college has a total intake of 120 seats for all branches. Tuition fees for the entire course are ₹33,900. The college provides a peaceful study environment with well-qualified teachers and practical exposure through specialized labs and workshops. It has a library with 50 titles, 500 volumes, and 2 national journals, along with multimedia PCs available for students during working hours. Specialized labs include Computer Labs, Electronics Lab, Communication and Power Lab, Mechanical Workshop, Applied Mechanics and Physics Labs, and Electrical Lab. The college has a dedicated placement cell led by Manish Kumar Kakhani, with recruiters such as TATA Power and L&T. Faculty members include Mr. Manish Kumar Goyal, Mr. Pankaj Bohra, Mr. Raj Kumar Meena, Mr. Rajesh Chobisa, and Mr. Ved Prakash. Hostel facilities are available, and students are advised to confirm details directly with the administration. For more information, the college can be contacted via email at gpc.bagidora@rajasthan.gov.in or by phone at 8824423664.
+
+__v: 0
+
+
+College: 6
+name: Government Polytechnic College, Banswara
+administrator: admin6
+information: Government Polytechnic College, Banswara, established in 1992, offers 3-year diploma programs in Mechanical, Electrical, and Civil Engineering with an intake of 40-60 seats per branch and fees of ₹12,500 annually. Affiliated with the Board of Technical Education and Directorate of Technical Education, Jodhpur, the college is recognized for its quality technical education in Rajasthan.
+
+address: Village Lodha, Opposite Mayur Mill, Banswara, Rajasthan, India
+contact: {'person': '', 'phone': ' 2962-254729', 'email': 'gpc.banswara@gmail.com', '_id': ObjectId('67513bc5ae762c273a275552')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcbanswara', '_id': ObjectId('67513bc5ae762c273a275553')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: 
+courses: {'name': 'Mechanical Engineering', 'seats': '40 seats\n', 'fees': ' ₹12,500 per year\n', 'eligibility': '', '_id': ObjectId('67513bc5ae762c273a275554')}, {'name': 'Electrical Engineering', 'seats': '40 seats\n', 'fees': ' ₹12,500 per year\n', 'eligibility': '', '_id': ObjectId('67513c6fae762c273a275571')}, {'name': 'Civil Engineering', 'seats': '60 seats\n', 'fees': ' ₹12,500 per year\n', 'eligibility': '', '_id': ObjectId('67513c6fae762c273a275572')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College, Bagidora, located in Banswara, offers diploma programs in Computer Science Engineering, Electronics Engineering, Robotics Engineering, and Electrical Engineering, each with a three-year duration. Admissions are based on entrance exams and merit, with first-year candidates required to have completed the 10th grade from CBSE, RBSE, or equivalent boards. Lateral entry is available for candidates with 12th Science Vocational/Technical or equivalent qualifications. The college has a total intake of 120 seats for all branches. Tuition fees for the entire course are ₹33,900. The college provides a peaceful study environment with well-qualified teachers and practical exposure through specialized labs and workshops. It has a library with 50 titles, 500 volumes, and 2 national journals, along with multimedia PCs available for students during working hours. Specialized labs include Computer Labs, Electronics Lab, Communication and Power Lab, Mechanical Workshop, Applied Mechanics and Physics Labs, and Electrical Lab. The college has a dedicated placement cell led by Manish Kumar Kakhani, with recruiters such as TATA Power and L&T. Faculty members include Mr. Manish Kumar Goyal, Mr. Pankaj Bohra, Mr. Raj Kumar Meena, Mr. Rajesh Chobisa, and Mr. Ved Prakash. Hostel facilities are available, and students are advised to confirm details directly with the administration. For more information, the college can be contacted via email at gpc.bagidora@rajasthan.gov.in or by phone at 8824423664.
+
+__v: 0
+
+
+College: 7
+name: Government Polytechnic College, Baran
+administrator: admin7
+information: Village Pahari, Tehsil Shahbad, District Baran, Rajasthan
+address: 
+contact: {'person': 'Shri Sajjan Singh Bajiya (Principal)', 'phone': '+91 8079040149', 'email': 'gpc.kelwara@gmail.com', '_id': ObjectId('67514834d2ea0a952ce03ee3')}, {'person': '', 'phone': '', 'email': 'gpc.kelwara@rajasthan.gov.in', '_id': ObjectId('67514a264912aa3ea8e51a79')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcbaran', '_id': ObjectId('67514834d2ea0a952ce03ee4')}
+infrastructure: library: Available, details not provided; hostel: Not mentioned; canteen: Not mentioned; sports: Not mentioned; labs: Well-equipped laboratories and computer labs available; classrooms: Modern classrooms provided; other: College building completed in July 2019 by PWD Baran
+courses: {'name': 'Civil Engineering', 'seats': '', 'fees': '', 'eligibility': 'Passed 10th standard with Science and Mathematics, securing at least 35% marks', '_id': ObjectId('67514834d2ea0a952ce03ee5')}, {'name': 'Electrical Engineering', 'seats': '', 'fees': '', 'eligibility': 'Passed 10th standard with Science and Mathematics, securing at least 35% marks', '_id': ObjectId('67514a264912aa3ea8e51a7c')}, {'name': 'Mechanical Engineering', 'seats': '', 'fees': '', 'eligibility': 'Passed 10th standard with Science and Mathematics, securing at least 35% marks', '_id': ObjectId('67514a264912aa3ea8e51a7d')}, {'name': 'Electronics Engineering', 'seats': '', 'fees': '', 'eligibility': 'Passed 10th standard with Science and Mathematics, securing at least 35% marks', '_id': ObjectId('67514a264912aa3ea8e51a7e')}
+admission_process: Admission Process: Admissions are based on scores obtained in CBSE or RBSE 10th exams.
+Scholarships: Information not provided
+cutoff: Not provided
+placement: topRecruiters: Not provided; statistics: Not provided; averagePackages: Not provided; other: Not provided
+alumni: Not provided
+events_activities: Not provided
+governance: 
+
+Principal: Shri Sajjan Singh Bajiya
+Faculty: Includes qualified professionals like Mr. Jitesh Kumar Meena (Lecturer)
+other: Government Polytechnic College, Kelwara, established in 2019, is a government institution located in Village Pahari, Tehsil Shahbad, District Baran, Rajasthan. The college is approved by AICTE and affiliated with the Board of Technical Education Rajasthan (BTER), Jodhpur. It offers multidisciplinary diploma programs in Civil, Electrical, Mechanical, and Electronics Engineering, with a total intake capacity of 100 seats. The infrastructure includes modern classrooms, well-equipped laboratories, computer labs, and a library. The college building was completed in July 2019 by PWD Baran. The diploma courses are AICTE-approved, spanning three years, and require students to have passed the 10th standard with Science and Mathematics, securing at least 35% marks. Admissions are based on CBSE or RBSE 10th exam scores. The faculty includes qualified professionals like Mr. Jitesh Kumar Meena, a lecturer at the college. For inquiries, the Principal, Shri Sajjan Singh Bajiya, can be contacted at +91 8079040149, and the college can be reached via email at gpc.kelwara@gmail.com or gpc.kelwara@rajasthan.gov.in. The college operates from 10:00 am to 5:00 pm, Monday to Saturday, and follows the Rajasthan Government calendar for holidays.
+
+__v: 0
+
+
+College: 8
+name: Government Polytechnic College, Bhilwara
+administrator: admin10
+information: 
+address: Located in Bhilwara, Rajasthan
+contact: {'person': 'Admission Cell/Placement Cell', 'phone': '01482250111', 'email': 'gpc.bhilwara@rajasthan.gov.in', '_id': ObjectId('67514cb1a8766f07212b6fe6')}, {'person': '', 'phone': '', 'email': '', '_id': ObjectId('67514e3634c9643dc79cf362')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcbhilwara', '_id': ObjectId('67514cb1a8766f07212b6fe7')}
+infrastructure: library:  Includes 2,167 books and 16 journals; hostel: Hostel facilities available; fees for boys and girls differ; canteen: Cafeteria available; sports: Sports complex available; labs: Physics, Chemistry, and Computer labs; classrooms: Not mentioned; other: Not mentioned
+courses: {'name': 'Civil Engineering', 'seats': 'Part of 237 UG seats', 'fees': '₹33,900 tuition + hostel fees', 'eligibility': '₹33,900 tuition + hostel fees', '_id': ObjectId('67514cb1a8766f07212b6fe8')}, {'name': 'Civil Engineering', 'seats': 'Part of 237 UG seats', 'fees': '₹33,900 tuition + hostel fees', 'eligibility': '₹33,900 tuition + hostel fees', '_id': ObjectId('67514e3634c9643dc79cf365')}, {'name': 'Civil Engineering', 'seats': 'Part of 237 UG seats', 'fees': '₹33,900 tuition + hostel fees', 'eligibility': '₹33,900 tuition + hostel fees₹33,900 tuition + hostel fees', '_id': ObjectId('67514e3634c9643dc79cf366')}, {'name': 'Mechanical Engineering', 'seats': 'Part of 237 UG seats', 'fees': '₹33,900 tuition + hostel fees', 'eligibility': '₹33,900 tuition + hostel fees', '_id': ObjectId('67514e3634c9643dc79cf367')}
+admission_process: Admission Process: Entrance-based admission accepting RBSE and CBSE 10th exam scores
+Scholarships: Not mentioned
+cutoff: Not provided
+placement: topRecruiters: Not mentioned; statistics: Not mentioned; averagePackages: Not mentioned; other: Placement cell available
+alumni: Not mentioned
+events_activities: Not provided
+governance: Affiliated with AICTE, not UGC or AIU
+Not considered an Institute of National Importance
+other: Government Polytechnic College, Bhilwara, located in Bhilwara, Rajasthan, was established in
+2012. It is a public, government-owned institution approved by AICTE, though not by UGC or
+AIU, and is not considered an Institute of National Importance. The college follows an
+entrance-based admission process, accepting RBSE 10th and CBSE 10th exams. The total
+intake capacity is 273 students, with 237 seats available for after-10th diploma admissions
+and 54 seats for UG diploma courses. The tuition fee is ₹33,900, with additional hostel fees of
+₹1,800, excluding caution and mess charges. For boys, the fees include a caution deposit of
+₹1,000, an admission fee of ₹200, and NBA fees of ₹3,000 per year. For girls, the caution
+deposit is ₹500, with the same admission and NBA fees. The college offers various facilities
+such as a library with 2,167 books and 16 journals, a cafeteria, a sports complex, and labs,
+including physics, chemistry, and computer labs. The courses available are Civil Engineering,
+Electronics Engineering, Electrical Engineering, and Mechanical Engineering, each being a
+three-year UG diploma program. For more information, students can contact the admission
+cell at 01482250111 or email gpc.bhilwara@rajasthan.gov.in. The placement cell can be
+reached using the same contact details. The official website is hte.rajasthan.gov.in.
+__v: 0
+committees: Not mentioned
+
+
+College: 9
+name: Government Polytechnic College, Barmer
+administrator: admin8
+information: Government Polytechnic College Barmer, located on Jaisalmer Road, offers diploma courses in Chemical, Civil, Petroleum, Computer Science (AI & ML), Electrical, Electronics, and Mechanical Engineering, with a total capacity of 120 students. The campus features hostels for boys (120) and girls (30), a gym, sports facilities, dining halls, and a playground. Hostel amenities include 24-hour power, Wi-Fi, and hygienic premises. The fee structure is ₹1.96 lakhs, with eligibility requiring 12th-grade completion in the Physics/Maths stream.
+
+address: Campus Office at Government Polytechnic College Barmer, N.H. 68, Jaisalmer Road, Barmer
+
+contact: {'person': '', 'phone': '+91-9119268187', 'email': '', '_id': ObjectId('67514e5134c9643dc79cf374')}, {'person': '', 'phone': '9460394649', 'email': '', '_id': ObjectId('67514fda34c9643dc79cf396')}, {'person': '', 'phone': '', 'email': 'principal@gecbarmer.ac.in', '_id': ObjectId('67514fda34c9643dc79cf397')}, {'person': '', 'phone': '', 'email': 'info.gecbarmer@gmail.com', '_id': ObjectId('67514fda34c9643dc79cf398')}
+websites: {'name': '', 'link': 'https://hte.rajasthan.gov.in/college/gpcbarmer', '_id': ObjectId('67514e5134c9643dc79cf375')}
+infrastructure: library:  Not mentioned; hostel: Boys' Hostel: Capacity of 120 students
+Girls' Hostel: Capacity of 30 students
+Amenities: 24-hour power supply, Wi-Fi, hygienic premises, cold water, spacious rooms with attached clean toilets; canteen: Dining facilities with a nutritious menu and hygienic dining halls; sports: Badminton court, volleyball court, gym, activity rooms, and playgrounds; labs: Not mentioned; classrooms: Not mentioned; other: 24-hour security and medical facilities
+Eco-friendly policies, including bans on polythene, alcohol, and smoking
+Zero-tolerance policy against ragging and other unlawful acts
+courses: {'name': 'Chemical Engineering', 'seats': '', 'fees': '', 'eligibility': '', '_id': ObjectId('67514e5134c9643dc79cf376')}, {'name': 'Civil Engineering', 'seats': '', 'fees': '', 'eligibility': '', '_id': ObjectId('67514fda34c9643dc79cf39b')}, {'name': 'Computer Science and Engineering (AI & ML)', 'seats': '', 'fees': '', 'eligibility': '', '_id': ObjectId('67514fda34c9643dc79cf39c')}, {'name': 'Electronics and Communication Engineering', 'seats': '', 'fees': '', 'eligibility': '', '_id': ObjectId('67514fda34c9643dc79cf39d')}, {'name': 'Mechanical Engineering', 'seats': '', 'fees': '', 'eligibility': '', '_id': ObjectId('67514fda34c9643dc79cf39e')}, {'name': 'Petroleum Engineering', 'seats': '', 'fees': '', 'eligibility': '', '_id': ObjectId('67514fda34c9643dc79cf39f')}
+admission_process: Admission Process: Not mentioned
+Scholarships: Not mentioned
+cutoff: Not provided
+placement: topRecruiters: Not mentioned; statistics: Not mentioned; averagePackages: Not mentioned; other: Not mentioned
+alumni: 
+events_activities: Cultural and social activities include talent shows, dramatics, and literary events to foster mutual cooperation and harmony among students.
+governance: Enforces values of integrity, mindfulness, cooperation, open-mindedness, and hard work.
+other: Government Engineering College, Barmer, is located at its Campus Office in Government
+Polytechnic College Barmer on N.H. 68, Jaisalmer Road, Barmer, Rajasthan. The college can be
+contacted via its help desk numbers +91-9119268187 and 9460394649 or through email at
+principal@gecbarmer.ac.in or info.gecbarmer@gmail.com. It offers undergraduate programs
+in Chemical Engineering, Civil Engineering, Computer Science and Engineering (AI & Machine
+Learning), Electrical Engineering, Electronics and Communication Engineering, Mechanical
+Engineering, and Petroleum Engineering. The campus includes a boys' hostel with a capacity
+of 120 students and a girls' hostel accommodating 30 students, both equipped with essential
+amenities such as 24-hour power supply, Wi-Fi connectivity, cold water, clean and hygienic
+premises, and spacious rooms with attached clean toilets. The college provides dining
+facilities with a nutritious menu, hygienic dining halls, and dedicated staff, as well as
+recreational infrastructure, including a badminton court, volleyball court, gym, activity
+rooms, and playgrounds. Health and safety are prioritized with 24-hour security, medical
+facilities, and strict policies against polythene use, alcohol, and smoking. The college enforces
+a zero-tolerance policy for ragging and other unlawful acts and promotes values such as
+integrity, mindfulness, cooperation, open-mindedness, and hard work. Cultural and social
+activities, including talent shows, dramatics, and literary events, are organized regularly to
+foster mutual cooperation and harmony among students
+__v: 0
+committees: Not mentioned
+
+
+College: 10
+name: Government Polytechnic College, Bharatpur
+administrator: admin9
+information: Shri Gokul Verma Government Polytechnic College, Bharatpur, established in 1984, is located 8 km from Bharatpur Railway Station and 1.5 km from Keoladeo National Park. The college spans 11.81 acres and offers programs in Civil, Electrical, and Mechanical Engineering with a total intake capacity of 420 students. The college provides lateral admissions and scholarships like the Department of Social Justice & Empowerment Scholarships, AICTE Scholarships, and Vidyasaarthi Scholarship (NSDL). It also runs skill development programs under the CDTP Scheme, focusing on disadvantaged communities. The campus includes well-equipped labs in various engineering and science disciplines.
+
+
+
+address: NH-11, Bharatpur, Rajasthan (8 km from Bharatpur Railway Station, 1.5 km from Keoladeo National Park)
+contact: {'person': 'Nodal Officer: Devesh Mishra (Lecturer in Computer Engineering)', 'phone': '5644297015', 'email': 'gpc.bharatpur@rajasthan.gov.in', '_id': ObjectId('67514ff734c9643dc79cf3ae')}, {'person': '', 'phone': '0564-4297015', 'email': '', '_id': ObjectId('675151934e02cf75a5260944')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gwpcbharatpur', '_id': ObjectId('67514ff734c9643dc79cf3af')}
+infrastructure: library: Not mentioned; hostel: Not mentioned; canteen: Not mentioned; sports: Not mentioned; labs: Civil Engineering: Applied Mechanics, AutoCAD, Concrete, Engineering Drawing, Public Health, Soil Mechanics, Strength of Materials, Surveying, Transportation
+Electrical Engineering: Not specified
+Mechanical Engineering: AutoCAD, Automobile, CNC, Carpentry Shop, Fitting Shop, Hydraulics, Machine Shop, Heat Engine, Metrology, Refrigeration & Air Conditioning, Sheet Metal, Welding
+Science & Humanities: Chemistry, English Language, Physics; classrooms: Not mentioned; other:  CDTP Scheme for skill development in House Wiring, Motor Winding, Data Entry, Cutting & Tailoring, IT & Communication
+courses: {'name': 'Civil Engineering', 'seats': '180 students', 'fees': '', 'eligibility': '', '_id': ObjectId('67514ff734c9643dc79cf3b0')}, {'name': 'Electrical Engineering', 'seats': '120 students', 'fees': '', 'eligibility': '', '_id': ObjectId('675151934e02cf75a5260947')}, {'name': 'Mechanical Engineering', 'seats': '120 students', 'fees': '', 'eligibility': '', '_id': ObjectId('675151934e02cf75a5260948')}
+admission_process: Admission Process: Lateral admissions through the Department of Technical Education (DTE)
+Scholarships:
+Department of Social Justice & Empowerment Scholarships
+AICTE Scholarships
+Vidyasaarthi Scholarship (NSDL)
+cutoff: Not provided
+placement: topRecruiters: Not provided; statistics: Not provided; averagePackages: Not provided; other: Not provided
+alumni: Not provided
+events_activities: Not provided
+governance: Administrative Staff:
+Pradyumn Kumar Mittal (Additional Administrative Officer)
+Vijay Kumar Bindal (AAO)
+other: 
+__v: 0
+committees: Not mentioned
+
+
+College: 11
+name: Government Polytechnic College, Bikaner
+administrator: admin11
+information: Government Polytechnic College, Bikaner, established in 1960, offers 3-year full-time diploma programs in various engineering specializations, including Mechatronics, Civil, Electronics, Electrical, and Mechanical Engineering. The college admits 220 students across all engineering courses, with a fee of INR 33,900 per year. Admission is based on entrance exams and merit, considering academic scores from CBSE or RBSE 10th grade exams.
+The college boasts extensive infrastructure, including 26 labs, a library with 30,785 books, two hostels with 24 beds for boys and girls, a sports complex with 9 facilities, a cafeteria, gym, medical services, and Wi-Fi. The programs are spread over 6 semesters.
+
+address:  Bikaner, Rajasthan
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('675151d34e02cf75a5260954')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcbikaner', '_id': ObjectId('675151d34e02cf75a5260955')}
+infrastructure: library: Equipped with 30,785 books; hostel: Two hostels with 24 beds each for boys and girls; canteen: Available; sports: Sports complex provided; labs: 26 labs; classrooms: Not mentioned; other: Gym, medical facilities, and campus-wide Wi-Fi
+courses: {'name': 'Mechatronics Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900/year', 'eligibility': 'CBSE/RBSE 10th', '_id': ObjectId('675151d34e02cf75a5260956')}, {'name': 'Civil Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900/year', 'eligibility': 'CBSE/RBSE 10th', '_id': ObjectId('675152a34e02cf75a5260963')}, {'name': 'Electronics Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900/year', 'eligibility': 'CBSE/RBSE 10th', '_id': ObjectId('675152a34e02cf75a5260964')}, {'name': 'Electrical Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900/year', 'eligibility': 'CBSE/RBSE 10th', '_id': ObjectId('675152a34e02cf75a5260965')}, {'name': 'Mechanical Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900/year', 'eligibility': 'CBSE/RBSE 10th', '_id': ObjectId('675152a34e02cf75a5260966')}
+admission_process: Admission Process: Based on entrance exams and merit through CBSE or RBSE 10th results
+Scholarships: Not mentioned
+cutoff: Not provided
+placement: topRecruiters: Not mentioned; statistics: Not provided; averagePackages: Not provided; other: Not mentioned
+alumni: Not mentioned
+events_activities: Not mentioned
+governance: Not mentioned
+other: Government Polytechnic College, Bikaner, established in 1960, is a public institution located
+in Bikaner, Rajasthan. The college is not approved by UGC, not a member of AIU, and is not
+considered an Institute of National Importance. Admission to the college is based on entrance
+exams and merit, with accepted exams being CBSE 10th and RBSE 10th, and criteria based on
+academic performance for after-10th diploma courses. The college offers five diploma
+programs in Mechatronics Engineering, Civil Engineering, Electronics Engineering, Electrical
+Engineering, and Mechanical Engineering, each with a duration of three years. The annual
+fees for each program are ₹33,900. The college has a well-equipped library with 30,785
+books, two hostels with 24 beds each for boys and girls, a sports complex, 26 labs, a cafeteria,
+a gym, and medical facilities. The campus also provides Wi-Fi for students. The total intake
+capacity for all courses is 220 seats. For more details, visit the college's official website at
+https://hte.rajasthan.gov.in/college/gpcbikaner.
+
+__v: 0
+committees: Not mentioned
+
+
+College: 12
+name: Government Polytechnic College, Bundi
+administrator: admin12
+information: 
+address: Bundi, Rajasthan, India
+
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('675152c54e02cf75a5260971')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcbundi', '_id': ObjectId('675152c54e02cf75a5260972')}
+infrastructure: library: Well-equipped; hostel: Not available; canteen: Not mentioned; sports: Sports complex available; labs: Provided for various departments; classrooms: Not mentioned; other: Medical facilities, Wi-Fi campus, and auditorium
+courses: {'name': 'Electronics Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900/year', 'eligibility': 'CBSE/RBSE 10th', '_id': ObjectId('675152c54e02cf75a5260973')}, {'name': 'Computer Science Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900/year', 'eligibility': 'CBSE/RBSE 10th', '_id': ObjectId('675153684e02cf75a5260980')}, {'name': 'Mechanical Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900/year', 'eligibility': 'CBSE/RBSE 10th', '_id': ObjectId('675153684e02cf75a5260981')}, {'name': 'Electrical Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900/year', 'eligibility': 'CBSE/RBSE 10th', '_id': ObjectId('675153684e02cf75a5260982')}, {'name': 'Civil Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900/year', 'eligibility': 'CBSE/RBSE 10th', '_id': ObjectId('675153684e02cf75a5260983')}
+admission_process: Admission Process: Entrance and merit-based through CBSE or RBSE 10th scores
+Scholarships: Not mentioned
+cutoff: Not provided
+placement: topRecruiters: Not mentioned; statistics: Not provided; averagePackages: Not provided; other: Not mentioned
+alumni: Not mentioned
+events_activities: Not mentioned
+governance: Not mentioned
+other: Government Polytechnic College, Bundi, established in 2011, is a public institution located in
+Bundi, Rajasthan. It is not approved by UGC, nor is it a member of AIU or considered an
+Institute of National Importance. The college follows an entrance and merit-based admission
+process, accepting CBSE and RBSE 10th-grade exam scores. It offers five diploma programs in
+Electronics Engineering, Computer Science Engineering, Mechanical Engineering, Electrical
+Engineering, and Civil Engineering, each with a duration of three years. The annual tuition fee
+is ₹33,900. The college provides a well-equipped library, sports complex, medical facilities,
+Wi-Fi campus, auditorium, and various labs, but does not offer hostel facilities. The total seat
+intake for all courses is 245. For more information, visit the official website:
+hte.rajasthan.gov.in/college/gpcbundi.
+__v: 0
+committees: Not mentioned
+
+
+College: 13
+name: Government Polytechnic College, Chittorgarh
+administrator: admin13
+information: Established in 1988, Government Polytechnic College, Chittorgarh, offers 3-year diploma programs in Electronics, Electrical, Mechanical, and Robotics Engineering. Admissions are based on 10th-grade merit with science and math (minimum 35% marks). Fees are ₹33,900 for boys and ₹21,450 for girls, with additional charges. Facilities include a library with 16,632 books, 20 labs, hostels (36 beds for boys, 50 for girls), a sports complex, cafeteria, gym, and Wi-Fi. The college is rated 4.3/5 overall by students.
+
+address:  Chittorgarh, Rajasthan, India
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('675153964e02cf75a526098e')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcchittorgarh', '_id': ObjectId('675153964e02cf75a526098f')}
+infrastructure: library: 16,632 books and 12 journals; hostel: Boys' hostel with 36 beds, girls' hostel with 50 beds; canteen:  Available; sports: Sports complex available; labs: 20 lab facilities; classrooms: Not mentioned; other: Gym, medical services, Wi-Fi on campus
+courses: {'name': 'Electronics Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900 (Boys), ₹21,450 (Girls)', 'eligibility': '10th grade with 35% in Science and Math', '_id': ObjectId('675153964e02cf75a5260990')}, {'name': 'Electrical Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900 (Boys), ₹21,450 (Girls)', 'eligibility': '10th grade with 35% in Science and Math', '_id': ObjectId('6751544e4e02cf75a526099d')}, {'name': 'Mechanical Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900 (Boys), ₹21,450 (Girls)', 'eligibility': '10th grade with 35% in Science and Math', '_id': ObjectId('6751544e4e02cf75a526099e')}, {'name': 'Robotics Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900 (Boys), ₹21,450 (Girls)', 'eligibility': '10th grade with 35% in Science and Math', '_id': ObjectId('6751544e4e02cf75a526099f')}
+admission_process: Admission Process: Entrance exams and merit-based, accepting CBSE and RBSE 10th-grade scores
+Scholarships: Not mentioned
+cutoff: Not provided
+placement: topRecruiters: Not mentioned; statistics: Not provided; averagePackages: Not provided; other: Not mentioned
+alumni: Not mentioned
+events_activities: Not mentioned
+governance: Not mentioned
+other: Government Polytechnic College, Chittorgarh, established in 1988, is a public institution
+located in Chittorgarh, Rajasthan. The college is not approved by UGC, is not a member of AIU,
+and does not hold the status of an Institute of National Importance. Admission is based on
+entrance exams and merit, accepting CBSE and RBSE 10th-grade scores.
+The college offers diploma programs in Electronics Engineering, Electrical Engineering,
+Mechanical Engineering, and Robotics Engineering, with each program lasting three years.
+Eligibility requires passing the 10th-grade exams from CBSE or RBSE with at least 35% marks
+in Science and Mathematics.
+The tuition fees are ₹33,900 for boys and ₹21,450 for girls for the three-year course.
+Additional fees include a caution deposit of ₹1,000 for boys and ₹500 for girls, admission fees
+of ₹200, and an NBA accreditation fee of ₹3,000 per year.
+Facilities at the college include a library with 16,632 books and 12 journals, hostel
+accommodations (36 beds for boys and 50 for girls), 20 lab facilities, a sports complex,
+cafeteria, gym, medical services, and Wi-Fi on campus.
+Student reviews rate the college highly, with an overall rating of 4.3/5, a faculty rating of
+4.5/5, infrastructure at 4/5, and campus life at 3.5/5.
+For more details, visit the official website: hte.rajasthan.gov.in/college/gpcchittorgarh.
+__v: 0
+committees: Not mentioned
+
+
+College: 14
+name: Government Polytechnic College, Churu
+administrator: admin14
+information: Government Polytechnic College, Churu, established in 2005, offers 3-year diploma programs in Computer Science and Electronics Engineering with fees of ₹33,900 for boys and ₹21,450 for girls. The campus spans 15 acres and includes a library with 6,816 books, 14 labs, a sports complex, and medical facilities. Hostel accommodations are available with additional fees. Admissions are merit-based, requiring 10th-grade completion.
+
+address: Road Number 5, Industrial Area, Churu, Rajasthan, India
+
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('6751546e4e02cf75a52609a9')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcchuru', '_id': ObjectId('6751546e4e02cf75a52609aa')}
+infrastructure: library:  6,816 books; hostel: Female student hostel available; canteen: Not mentioned; sports: Sports complex available; labs:  14 lab facilities; classrooms: ; other: Workshops, classrooms
+courses: {'name': 'Computer Science and Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900 (Boys), ₹21,450 (Girls)', 'eligibility': '10th grade with Science and Math', '_id': ObjectId('6751546e4e02cf75a52609ab')}, {'name': 'Electronics Engineering', 'seats': 'Not mentioned', 'fees': '₹33,900 (Boys), ₹21,450 (Girls)', 'eligibility': '10th grade with Science and Math', '_id': ObjectId('675155234e02cf75a52609b8')}
+admission_process: Admission Process: Entrance exams and merit-based, accepting CBSE and RBSE 10th-grade scores
+Scholarships: Not mentioned
+cutoff: Not provided
+placement: topRecruiters: Not mentioned; statistics: Not provided; averagePackages: Not provided; other: Not mentioned
+alumni: Not mentioned
+events_activities: Not mentioned
+governance: Not mentioned
+other: Government Polytechnic College, Churu, established in 2005, is located in Churu, Rajasthan,
+on Road Number 5, Industrial Area. It is a government institution affiliated with AICTE and
+the Board of Technical Education Rajasthan, Jodhpur. The college originally started in Bikaner
+in 1999 before moving to its current location in 2005. The campus spans 15 acres and offers
+infrastructure including classrooms, laboratories, workshops, a library, and hostel facilities
+for female students.
+The college offers two diploma courses: Diploma in Computer Science and Engineering, and
+Diploma in Electronics Engineering, both of which are three-year programs. Tuition fees are
+₹33,900 for boys and ₹21,450 for girls for the entire duration. Additional one-time fees
+include a caution deposit of ₹1,000 for boys and ₹500 for girls, an admission fee of ₹200, and
+an NBA accreditation fee of ₹3,000 per year.
+Hostel fees for a 3-seater room are ₹1,800 per year, with extra charges including ₹2,000 for
+caution money, ₹1,000 for mess charges, ₹500 for the general fund, and ₹800 for
+maintenance. The total fees for boys, including tuition and hostel charges, amount to ₹35,700
+for three years.
+The college has a well-equipped library with 6,816 books and provides 14 lab facilities. Other
+campus amenities include a sports complex and medical services.
+For more details, you can visit hte.rajasthan.gov.in/college/gpcchuru.
+__v: 0
+committees: Not mentioned
+
+
+College: 15
+name: Government Polytechnic College, Dausa
+administrator: admin14
+information: Established in 2011, Government Polytechnic College, Dausa, offers 3-year diploma programs in Computer Science, Mechatronics, Electronics, Civil, Mechanical, and Electrical Engineering with a total intake of 300 students. Annual fees are ₹33,900. The campus features labs for all disciplines, a library with 2,354 books, a sports complex, and medical facilities. Admissions are merit-based, requiring 10th-grade completion. The college is highly rated for faculty and campus life.
+
+address: Dausa, Rajasthan, India
+
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('6751553c4e02cf75a52609c0')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcdausa', '_id': ObjectId('6751553c4e02cf75a52609c1')}
+infrastructure: library: 2,354 books, 15 journals; hostel: ; canteen: ; sports: Sports complex available; labs: Laboratories for all engineering disciplines (specific number not mentioned); classrooms: ; other: Medical Services: Available
+courses: {'name': 'Computer Science Engineering', 'seats': 'Part of total 300 seats', 'fees': '₹33,900 for entire course', 'eligibility': '10th grade (CBSE/RBSE)', '_id': ObjectId('6751553c4e02cf75a52609c2')}, {'name': 'Mechatronics Engineering', 'seats': 'Part of total 300 seats', 'fees': '₹33,900 for entire course', 'eligibility': '10th grade (CBSE/RBSE)', '_id': ObjectId('675156384e02cf75a52609d4')}, {'name': 'Electronics Engineering', 'seats': 'Part of total 300 seats', 'fees': '₹33,900 for entire course', 'eligibility': '10th grade (CBSE/RBSE)', '_id': ObjectId('675156384e02cf75a52609d5')}, {'name': 'Civil Engineering', 'seats': 'Part of total 300 seats', 'fees': '₹33,900 for entire course', 'eligibility': '10th grade (CBSE/RBSE)', '_id': ObjectId('675156384e02cf75a52609d6')}, {'name': 'Mechanical Engineering\t', 'seats': 'Part of total 300 seats', 'fees': '₹33,900 for entire course', 'eligibility': '10th grade (CBSE/RBSE)', '_id': ObjectId('675156384e02cf75a52609d7')}, {'name': 'Electrical Engineering', 'seats': 'Part of total 300 seats', 'fees': '₹33,900 for entire course', 'eligibility': '10th grade (CBSE/RBSE)', '_id': ObjectId('675156384e02cf75a52609d8')}
+admission_process: Admission Process: Entrance exams and merit-based, accepting CBSE and RBSE 10th-grade scores
+Scholarships: Not mentioned
+cutoff: Not provided
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College, Dausa, established in 2011, is located in Dausa, Rajasthan.
+This government institution is affiliated with AICTE and offers After 10th Diploma programs
+in various engineering fields. The college focuses on providing quality education in technical
+disciplines, with AICTE-approved programs.
+The college offers full-time diploma courses in the following engineering disciplines:
+Computer Science Engineering, Mechatronics Engineering, Electronics Engineering, Civil
+Engineering, Mechanical Engineering, and Electrical Engineering. The tuition fee for all
+programs is ₹33,900 for the entire three-year course. Additional fees related to hostel and
+caution money are not specified.
+The campus is equipped with a well-stocked library containing 2,354 books and 15 journals.
+While the specific number of labs is not mentioned, the college offers laboratories for all
+engineering disciplines. The infrastructure has been rated 4/5 by students and includes a
+sports complex and medical facilities. Hostel facilities have not been specified.
+The college admits students who have passed CBSE 10th or RBSE 10th, with admission based
+on entrance exams and merit. The total intake capacity is 300 seats across various courses.
+Faculty quality is rated 5/5, placements are rated 4/5, campus life is rated 5/5, and
+infrastructure is rated 4/5 by students. However, the median salary of graduates is not
+available.
+
+__v: 0
+
+
+College: 16
+name: Government Polytechnic College, Dholpur
+administrator: admin15
+information: Government Polytechnic College, Dholpur, established in 2010, offers diploma programs in Civil, Mechanical, Electrical, Electronics, and Computer Science Engineering. The college provides modern labs, a library, sports facilities, and a canteen. With a focus on practical learning, it has a dedicated placement cell for internships and recruitment. Scholarships are available based on merit and socioeconomic need. The campus is AICTE-approved and spans 5 acres, offering a supportive environment for academic and extracurricular activities.
+address: Dholpur, Rajasthan
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('6751564b4e02cf75a52609e4')}
+websites: {'name': '', 'link': 'https://hte.rajasthan.gov.in/college/www.gpcdholpur.com', '_id': ObjectId('6751564b4e02cf75a52609e5')}
+infrastructure: library: 1,953 books; hostel: ; canteen:  Incubation center, canteen; sports: Cricket, football, basketball, volleyball courts; labs: 21 well-equipped labs; classrooms: ; other: Available for internships and job placements
+courses: {'name': 'Civil Engineering', 'seats': '60 students', 'fees': '₹4,350-₹4,360 per year', 'eligibility': '10th grade (RBSE/CBSE)', '_id': ObjectId('6751564b4e02cf75a52609e6')}, {'name': 'Mechanical Engineering', 'seats': '60 students', 'fees': '₹4,350-₹4,360 per year', 'eligibility': '10th grade (RBSE/CBSE)', '_id': ObjectId('675157d04e02cf75a5260a01')}, {'name': 'Electrical Engineering', 'seats': '60 students', 'fees': '₹4,350-₹4,360 per year', 'eligibility': '10th grade (RBSE/CBSE)', '_id': ObjectId('675157d04e02cf75a5260a02')}, {'name': 'Electronics Engineering', 'seats': '60 students', 'fees': '₹4,350-₹4,360 per year', 'eligibility': '10th grade (RBSE/CBSE)', '_id': ObjectId('675157d04e02cf75a5260a03')}, {'name': 'Computer Science Engineering', 'seats': '60 students', 'fees': '₹4,350-₹4,360 per year', 'eligibility': '10th grade (RBSE/CBSE)', '_id': ObjectId('675157d04e02cf75a5260a04')}
+admission_process: Admission Process: Merit-based, based on RBSE 10th and CBSE 10th exam results
+Application Fee: ₹50
+Scholarships: Not mentioned
+cutoff: Not provided
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: Placement Cell: Available for internships and job placements
+Other: Not mentioned
+alumni: 
+events_activities: Cultural events
+Sports activities
+Technical festivals
+Seminars
+Community initiatives
+governance: 
+other: 
+__v: 0
+
+
+College: 17
+name: Government Polytechnic College, Dungarpur
+administrator: admin17
+information:  Government Polytechnic College, Dungarpur, established in 2010, offers 3-year diploma programs in Civil, Mechanical, and Computer Science Engineering with an intake of 162 students. The annual fees are ₹33,900 for boys and ₹21,450 for girls. The college features well-rated infrastructure, labs, a library, sports complex, medical facilities, Wi-Fi, hostel, cafeteria, auditorium, and gym. Admissions are merit-based, requiring 10th-grade completion with Science and Mathematics. Total fees for boys, including hostel and additional charges, are ₹35,700 for three years.
+
+address: Dungarpur, Rajasthan
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('675157f04e02cf75a5260a0f')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcdungarpur', '_id': ObjectId('675157f04e02cf75a5260a10')}
+infrastructure: library: Available; hostel: ; canteen: ; sports: Sports complex; labs: Equipped for various engineering disciplines; classrooms: ; other: Medical facilities, Wi-Fi campus, hostel, cafeteria, auditorium, gym
+courses: {'name': 'Civil Engineering', 'seats': '54 students', 'fees': '₹33,900 (boys) / ₹21,450 (girls) per year', 'eligibility': '10th grade (CBSE/RBSE)', '_id': ObjectId('675157f04e02cf75a5260a11')}, {'name': 'Mechanical Engineering', 'seats': '54 students54 students', 'fees': '₹33,900 (boys) / ₹21,450 (girls) per year', 'eligibility': '10th grade (CBSE/RBSE)', '_id': ObjectId('675158a94e02cf75a5260a1e')}, {'name': 'Computer Science Engineering', 'seats': '54 students', 'fees': '₹33,900 (boys) / ₹21,450 (girls) per year', 'eligibility': '10th grade (CBSE/RBSE)', '_id': ObjectId('675158a94e02cf75a5260a1f')}
+admission_process: Admission Process: Merit-based and entrance-based, with eligibility based on 10th-grade results (CBSE or RBSE)
+Application Fee: ₹200
+Caution Deposit (Boys): ₹1,000
+Caution Deposit (Girls): ₹500
+NBA Accredited Syllabus Fee: ₹3,000 per year
+Hostel Fee (Boys): ₹1,800 for a 3-seater room
+Additional Fees (Boys): ₹2,000 caution money, ₹1,000 mess charges, ₹500 general fund, ₹800 maintenance
+Total Fees (Boys): ₹35,700 for three years
+cutoff: Not provided
+placement: topRecruiters: Not provided; statistics: Not provided; averagePackages: Not provided; other: Not provided
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College, Dungarpur, was established in 2010 and is located in
+Dungarpur, Rajasthan. The college is affiliated with AICTE and offers AICTE-approved
+diploma programs in various engineering fields for students who have completed their 10th
+grade. The college has an intake capacity of 162 students and is recognized for its expert
+faculty and modern infrastructure, which includes classrooms, laboratories, and other
+facilities that support student learning.
+The available diploma programs include Civil Engineering, Mechanical Engineering, and
+Computer Science Engineering. The tuition fee for boys is ₹33,900 for three years, while for
+girls, the fee is ₹21,450. Additional fees for boys include a ₹1,000 caution deposit, ₹200
+admission fees, ₹3,000 NBA Accredited Syllabus Fee per year, and ₹1,800 for hostel
+accommodation in a 3-seater room. Additional charges also include ₹2,000 for caution money,
+₹1,000 for mess charges, ₹500 for the general fund, and ₹800 for maintenance. The total fees
+for boys, excluding additional fees, amount to ₹35,700 for three years.
+The college offers amenities such as a library, labs for various engineering disciplines, sports
+complex, medical facilities, Wi-Fi campus, hostel, cafeteria, auditorium, and gym. The
+admission process is both entrance and merit-based, and candidates must have passed the
+10th grade with Science and Mathematics from a recognized board (CBSE or RBSE) with at
+least 35% marks.
+Government Polytechnic College, Dungarpur, receives excellent ratings across various aspects:
+Faculty Rating: 5/5, Placements Rating: 5/5, Campus Life Rating: 5/5, and Infrastructure
+Rating: 5/5. However, the median salary of graduates is not available.
+
+__v: 0
+
+
+College: 18
+name: Government Polytechnic College, Hanumangarh
+administrator: admin18
+information: Established in 2013, Government Polytechnic College, Hanumangarh, offers 3-year diploma programs in Mechanical and Electrical Engineering with an intake capacity of 120 students. The college features over 2,200 books in its library, Wi-Fi campus, sports complex, gym, and medical facilities. Annual fees are ₹33,900, and the placement rate for 2023-24 was 28 students with an average salary of ₹2.46 LPA. Admissions are merit-based, requiring 10th-grade completion with Science and Mathematics. The campus also includes an auditorium and multipurpose hall.
+
+address: Polytechnic College, Hanumangarh
+contact: {'person': 'Mr. Jaswant Kumawat', 'phone': '9602983051', 'email': 'jaswantkmwt7@gmail.com', '_id': ObjectId('675158be4e02cf75a5260a28')}
+websites: {'name': 'Official Website', 'link': 'http://hte.rajasthan.gov.in/college/gpchanumangarh', '_id': ObjectId('675158be4e02cf75a5260a29')}
+infrastructure: library: Over 2,200 books, journals, and e-resources; hostel: ; canteen: Sports complex; sports: Cafeteria, gym, auditorium, multipurpose hall with modern AV systems, Wi-Fi campus, medical facilities; labs: Equipped for Mechanical, Electrical, and other engineering disciplines; classrooms: ; other: 
+courses: {'name': 'Mechanical Engineering', 'seats': '40 students', 'fees': '₹33,900 per year', 'eligibility': '10th grade (CBSE/RBSE)', '_id': ObjectId('675158be4e02cf75a5260a2a')}, {'name': 'Electrical Engineering', 'seats': '40 students', 'fees': '₹33,900 per year', 'eligibility': '10th grade (CBSE/RBSE)', '_id': ObjectId('675159bc4e02cf75a5260a37')}, {'name': 'Civil Engineering', 'seats': '40 students', 'fees': '₹33,900 per year', 'eligibility': '10th grade (CBSE/RBSE)', '_id': ObjectId('675159bc4e02cf75a5260a38')}
+admission_process: Admission Process: Merit-based, with eligibility based on 10th-grade results (CBSE or RBSE)
+Application Fee: Not specified
+Additional Fees: Not specified
+Scholarships: Not mentioned
+cutoff: Not provided
+placement: topRecruiters: Placement Rating: 4/5
+Number of Students Placed (2023-24): 28
+Average Salary: ₹2.46 LPA
+Top Recruiters: Industries related to Electrical, Mechanical, Civil, and Electronics Engineering; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: The college offers a variety of extracurricular activities, including sports and cultural events, supported by its modern campus facilities.
+governance: The college is affiliated with AICTE and offers AICTE-approved diploma programs.
+other: Government Polytechnic College, Hanumangarh, was established in 2013 and is located in
+Hanumangarh, Rajasthan. The college offers full-time diploma courses after 10th grade,
+specializing in Mechanical Engineering, Electrical Engineering, and more. Government
+Polytechnic College, Hanumangarh has an intake capacity of 120 students and offers a fee
+range of ₹33,900 for its diploma programs. The campus spans over 6,900 sq. meters and is
+equipped with modern classrooms and laboratories to provide a conducive learning
+environment.
+Government Polytechnic College, Hanumangarh, features a large library with over 2,200
+books, journals, and e-resources. The college provides full Wi-Fi connectivity for students and
+staff across the campus. Accommodation facilities are available for students, and the college
+has a well-equipped auditorium and multipurpose hall with modern AV systems. Government
+Polytechnic College, Hanumangarh also boasts a sports complex, cafeteria, gym, and medical
+facilities, offering comprehensive amenities for the well-being of students and extracurricular engagement.
+For placements, in the 2023-24 academic year, 28 students from Government Polytechnic
+College, Hanumangarh were placed, with an average salary of ₹2.46 LPA. The placements
+span various industries related to Electrical, Mechanical, Civil, and Electronics Engineering,
+with a wide range of top recruiters hiring from Government Polytechnic College,
+Hanumangarh.
+The admission process at Government Polytechnic College, Hanumangarh requires candidates
+to have completed 10th grade with Science and Mathematics, securing at least 35% marks.
+Accepted exams include RBSE 10th and CBSE 10th for admission into the various diploma
+programs offered at Government Polytechnic College, Hanumangarh.
+For contact information, the Lecturer & Training Placement Officer at Government
+Polytechnic College, Hanumangarh is Mr. Jaswant Kumawat, who can be reached at
+9602983051. The email contact for Government Polytechnic College, Hanumangarh is
+jaswantkmwt7@gmail.com. The college is located at Sangaria By-Pass, Near DIET,
+Hanumangarh Junction-335512.
+Key features of Government Polytechnic College, Hanumangarh include state-of-the-art IT
+infrastructure with high-speed internet and an extensive Learning Resource Centre with
+academic resources such as e-books and journals.
+
+__v: 0
+
+
+College: 19
+name: Government Polytechnic College, Jaipur
+administrator: admin19
+information: Government Ram Chandra Khaitan Polytechnic College, established in 1982 and located in Jhalana Institutional Area, Jaipur, offers 3-year diploma programs in various engineering specializations such as Architecture, Civil, Computer Science, Electronics and Communication, Mechanical Production, Mechanical RAC, and Mechanical Engineering. The college has a campus area of 10,570 sq. meters with a four-story educational building, 32 laboratories, a library with 26,000 books, two sports complexes, a cafeteria, and an auditorium. Admissions are merit-based, with an annual fee of ₹33,900. The college boasts a placement rate of 70-80%, with average salary packages ranging from ₹1 LPA to ₹3 LPA. For more information, contact the college at +91-141-2707829 or via email at gpc.jaipur@gmail.com.
+
+address: Jhalana Institutional Area, Near RTO Office, Jaipur, Rajasthan
+contact: {'person': 'Admissions Contact', 'phone': '+91-141-2707829', 'email': 'gpc.jaipur@gmail.com', '_id': ObjectId('675159d54e02cf75a5260a41')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcjaipur', '_id': ObjectId('675159d54e02cf75a5260a42')}
+infrastructure: library: Well-stocked with 26,000 books and five journals; hostel: ; canteen: ; sports: ; labs: 32 labs across various departments; classrooms: ; other: Campus Area: 10,570 square meters
+Educational Building: Planned four-story building with classrooms, labs, conference halls, and exhibition rooms
+Additional Facilities: Two sports complexes, cafeteria, auditorium, water harvesting system
+courses: {'name': 'Diploma in Architecture', 'seats': '40 students', 'fees': '₹33,900 per year', 'eligibility': '10th grade with Science and Mathematics', '_id': ObjectId('675159d54e02cf75a5260a43')}, {'name': 'Diploma in Civil Engineering', 'seats': '40 students', 'fees': '₹33,900 per year', 'eligibility': '10th grade with Science and Mathematics', '_id': ObjectId('67515b174e02cf75a5260a50')}, {'name': 'Diploma in Computer Science & Engg', 'seats': '40 students', 'fees': '₹33,900 per year', 'eligibility': '10th grade with Science and Mathematics', '_id': ObjectId('67515b174e02cf75a5260a51')}, {'name': 'Diploma in Electronics & Communication', 'seats': '40 students', 'fees': '₹33,900 per year', 'eligibility': '10th grade with Science and Mathematics', '_id': ObjectId('67515b174e02cf75a5260a52')}, {'name': 'Diploma in Mechanical Production', 'seats': '40 students', 'fees': '₹33,900 per year', 'eligibility': '10th grade with Science and Mathematics', '_id': ObjectId('67515b174e02cf75a5260a53')}, {'name': 'Diploma in Mechanical RAC', 'seats': '40 students', 'fees': '₹33,900 per year', 'eligibility': '10th grade with Science and Mathematics', '_id': ObjectId('67515b174e02cf75a5260a54')}, {'name': 'Diploma in Mechanical Engineering', 'seats': '40 students', 'fees': '₹33,900 per year', 'eligibility': '10th grade with Science and Mathematics', '_id': ObjectId('67515b174e02cf75a5260a55')}
+admission_process: Admission Process: Merit-based, based on 10th-grade results (Science and Mathematics)
+Application Fee: Not specified
+Scholarships: Not mentioned
+cutoff: Not provided
+placement: topRecruiters: Placement Rate: 70-80%
+Average Salary: ₹1 LPA to ₹3 LPA
+Placement Activities: Start in the third year, with companies visiting the campus for recruitment
+Top Recruiters: Engineering disciplines; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: The college offers extracurricular activities including yoga classes, recreational activities, and a clean, well-maintained campus environment.
+governance: The college is affiliated with the Board of Technical Education, Rajasthan and offers AICTE-approved diploma programs.
+other: Government Ram Chandra Khaitan Polytechnic College, Jaipur, was established in 1982 and is
+located in the Jhalana Institutional Area, near the RTO Office in Jaipur, Rajasthan. The college
+is affiliated with the Board of Technical Education, Rajasthan, and offers various diploma
+programs for students who have completed their 10th grade. The college has a total seat
+intake of 260 for its after-10th diploma courses, with an approximate tuition fee of ₹33,900.
+The programs offered include Diploma in Architecture, Diploma in Civil Engineering, Diploma
+in Computer Science and Engineering, Diploma in Electronics and Communication
+Engineering, Diploma in Mechanical Production, Diploma in Mechanical RAC, and Diploma in
+Mechanical Engineering. The college’s infrastructure includes a 10,570 square meter campus
+with a planned four-story educational building, featuring classrooms, labs, conference halls,
+exhibition rooms, and parking. Additional facilities include a well-stocked library with 26,000
+books and five journals, 32 labs across various departments, two sports complexes, a
+cafeteria, an auditorium, and a water harvesting facility. The placement rate at the college is
+around 70-80%, with average salary packages ranging from ₹1 LPA to ₹3 LPA. Placement
+activities begin in the third year, with companies visiting the campus for recruitment in
+engineering disciplines. The college is known for its experienced faculty, many of whom hold
+Ph.D. degrees. The campus provides a conducive learning environment with recreational
+activities, yoga classes, and a clean, well-maintained atmosphere. Admission is merit-based,
+and students must have completed their 10th grade with subjects in Science and
+Mathematics. For further inquiries, the college can be contacted at +91-141-2707829 or via
+email at gpc.jaipur@gmail.com.
+
+__v: 0
+
+
+College: 20
+name: Government Polytechnic College, Jaisalmer
+administrator: admin20
+information: Polytechnic College, Jaisalmer, established in 2010, offers 3-year diploma programs in Electrical, Electronics, Computer Science, Civil, and Mechanical Engineering, with a total intake of 300 students. The annual tuition fee is ₹33,900. The college features a library with 640 books and 16 journals, well-equipped labs, sports complex, hostel, cafeteria, Wi-Fi, and medical facilities. Admissions are merit-based, requiring 10th-grade completion with Science and Mathematics.
+
+address: Near Central Jail, Ramgarh Road, Jaisalmer 345001, Rajasthan, India
+contact: {'person': 'Head of Department (HoD): Shree Tulsi Ram Meghwal', 'phone': '9413992979', 'email': 'tr.meghwal@gmail.com', '_id': ObjectId('67515b5c4e02cf75a5260a6b')}, {'person': '', 'phone': '9001650755', 'email': '', '_id': ObjectId('67515f75139bdaa9ba7f005d')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcjaisalmer', '_id': ObjectId('67515b5c4e02cf75a5260a6c')}
+infrastructure: library:  640 books and 16 journals; hostel: ; canteen: ; sports: ; labs: Well-equipped labs for all engineering departments; classrooms: ; other: Sports complex, hostel, cafeteria, Wi-Fi, and medical facilities
+courses: {'name': 'Electrical Engineering ', 'seats': '60 seats', 'fees': '', 'eligibility': '', '_id': ObjectId('67515f75139bdaa9ba7f005f')}, {'name': 'Electronics Engineering', 'seats': '60 seats', 'fees': '', 'eligibility': '', '_id': ObjectId('67515f75139bdaa9ba7f0060')}, {'name': 'Computer Science and Engineering', 'seats': '60 seats', 'fees': '', 'eligibility': '', '_id': ObjectId('67515f75139bdaa9ba7f0061')}, {'name': 'Civil Engineering', 'seats': '60 seats', 'fees': '', 'eligibility': '', '_id': ObjectId('67515f75139bdaa9ba7f0062')}, {'name': 'Mechanical Engineering', 'seats': '60 seats', 'fees': '', 'eligibility': '', '_id': ObjectId('67515f75139bdaa9ba7f0063')}
+admission_process: Admission Process: Merit-based, based on 10th-grade results (Science and Mathematics)
+Application Fee: Not specified
+Scholarships: Not mentioned
+cutoff: Not provided
+placement: topRecruiters: Placement Rate: 70-80%
+Average Salary: ₹1 LPA to ₹3 LPA
+Placement Activities: Start in the third year, with companies visiting the campus for recruitment
+Top Recruiters: Engineering disciplines; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: Government Engineering College, Barmer, is located at its Campus Office in Government
+Polytechnic College Barmer on N.H. 68, Jaisalmer Road, Barmer, Rajasthan. The college can be
+contacted via its help desk numbers +91-9119268187 and 9460394649 or through email at
+principal@gecbarmer.ac.in or info.gecbarmer@gmail.com. It offers undergraduate programs
+in Chemical Engineering, Civil Engineering, Computer Science and Engineering (AI & Machine
+Learning), Electrical Engineering, Electronics and Communication Engineering, Mechanical
+Engineering, and Petroleum Engineering. The campus includes a boys' hostel with a capacity
+of 120 students and a girls' hostel accommodating 30 students, both equipped with essential
+amenities such as 24-hour power supply, Wi-Fi connectivity, cold water, clean and hygienic
+premises, and spacious rooms with attached clean toilets. The college provides dining
+facilities with a nutritious menu, hygienic dining halls, and dedicated staff, as well as
+recreational infrastructure, including a badminton court, volleyball court, gym, activity
+rooms, and playgrounds. Health and safety are prioritized with 24-hour security, medical
+facilities, and strict policies against polythene use, alcohol, and smoking. The college enforces
+a zero-tolerance policy for ragging and other unlawful acts and promotes values such as
+integrity, mindfulness, cooperation, open-mindedness, and hard work. Cultural and social
+activities, including talent shows, dramatics, and literary events, are organized regularly to
+foster mutual cooperation and harmony among students.
+
+__v: 0
+
+
+College: 21
+name: Government Polytechnic College, Jalore
+administrator: admin21
+information: 
+address: 6 km from Jalore Bus Stand, 10 km from Pali Railway Station, Pali, Rajasthan
+contact: {'person': 'Lecturer in Electrical Engineering: Ram Karan Patel', 'phone': '+91-8058139685', 'email': 'gpc.jalore@rajasthan.gov.in', '_id': ObjectId('67515f92139bdaa9ba7f0071')}, {'person': '', 'phone': '8058139685', 'email': '', '_id': ObjectId('675160c0139bdaa9ba7f0080')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcjalore', '_id': ObjectId('67515f92139bdaa9ba7f0072')}
+infrastructure: library: 404 books; hostel: Boys' Hostel: 24-bed capacity; canteen: ; sports: ; labs: 10 well-equipped labs; classrooms: ; other: On-campus cafeteria, medical facilities, Wi-Fi, gym, auditorium
+courses: {'name': 'Electrical Engineering', 'seats': '30 seats per branch', 'fees': '₹33,900 per year', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('67515f92139bdaa9ba7f0073')}, {'name': 'Electronics Engineering', 'seats': '30 seats per branch', 'fees': '₹33,900 per year', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('675160c0139bdaa9ba7f0083')}, {'name': 'Computer Science and Engineering', 'seats': '30 seats per branch', 'fees': '₹33,900 per year', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('675160c0139bdaa9ba7f0084')}
+admission_process: Admission is merit-based, considering academic performance in 10th grade and entrance exam scores (CBSE 10th or RBSE 10th). Specific scholarship information is unavailable.
+cutoff: Specific cut-off details are unavailable.
+placement: topRecruiters: Kishor Sahu and Karan Panwar (Electrical Engineering) placed at SUBROS Limited, Ahmedabad with a package of ₹1.92 LPA
+Ravi Shankar (Electrical Engineering) placed at Bhagwati Products Ltd. (Micromax), Bhiwadi with a package of ₹1.26 LPA
+Recruiters include SUBROS Limited and Bhagwati Products Ltd.; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College, Jalore, established in 2010, is located in Pali, Rajasthan, with
+a temporary campus situated 6 km from the Jalore Bus Stand and 10 km from the Pali Railway
+Station. The college is affiliated with the Board of Technical Education Rajasthan (BTER),
+Jodhpur, and offers 3-year diploma programs after 10th grade in various engineering
+disciplines. The seat intake for the After 10th diploma courses at Government Polytechnic
+College, Jalore is 90 students. The tuition fees at Government Polytechnic College, Jalore are
+INR 33,900 per year. The eligibility criteria for admission to Government Polytechnic College,
+Jalore require the completion of 10th grade with Science and Mathematics from a recognized
+board, such as CBSE or RBSE. Government Polytechnic College, Jalore offers the following
+diploma courses: Diploma in Electrical Engineering (EE), Diploma in Electronics Engineering
+(EC), and Diploma in Computer Science and Engineering (CSE). The infrastructure and
+facilities at Government Polytechnic College, Jalore include a library equipped with 404
+books, 10 well-equipped labs for practical learning, and a boys' hostel with a 24-bed capacity.
+The campus of Government Polytechnic College, Jalore features a sports complex for student
+activities, an on-campus cafeteria, and medical facilities. The campus also provides Wi-Fi
+connectivity for students and a gym for student welfare. Additionally, there is an auditorium
+available for events and gatherings at Government Polytechnic College, Jalore. In terms of
+placements, Government Polytechnic College, Jalore has a strong placement record. Some of
+the placements in 2021-2022 include Kishor Sahu and Karan Panwar (both from Electrical
+Engineering) who were placed at SUBROS Limited, Ahmedabad with a package of INR 1.92
+LPA, and Ravi Shankar (also from Electrical Engineering) who was placed at Bhagwati
+Products Ltd. (Micromax), Bhiwadi with a package of INR 1.26 LPA. Other companies
+recruiting students from Government Polytechnic College, Jalore include SUBROS Limited and
+Bhagwati Products Ltd., with packages ranging from INR 1.26 LPA to INR 1.92 LPA. The
+admission process at Government Polytechnic College, Jalore is merit-based, based on 10thgrade academic performance, with entrance exams like CBSE 10th and RBSE 10th accepted.
+The duration for all diploma courses at Government Polytechnic College, Jalore is 3 years,
+with a total intake of 90 students for the After 10th diploma courses. For contact information,
+the Lecturer in Electrical Engineering at Government Polytechnic College, Jalore is Ram Karan
+Patel. He can be reached at +91-8058139685, and his email address is
+gpc.jalore@rajasthan.gov.in. The fax number for Government Polytechnic College, Jalore is
+8058139685.
+
+__v: 0
+
+
+College: 22
+name: Government Polytechnic College, Jhalawar
+administrator: admin22
+information: 
+address: RIICO Industrial Area, Near Industrial Training Institute, Jhalawar, Rajasthan, 326001
+contact: {'person': 'Sh. Jagdeesh Prasad Meena', 'phone': '+91 9413234009', 'email': 'gpc.jhalawar@rajasthan.gov.in', '_id': ObjectId('675160da139bdaa9ba7f008e')}, {'person': '', 'phone': '7432-233282', 'email': '', '_id': ObjectId('6751639e949256bec8688aae')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcjhalawar', '_id': ObjectId('675160da139bdaa9ba7f008f')}
+infrastructure: library: 4595 books; hostel: Accommodation for 50 girls with 24-hour water supply; canteen:  Available; sports: Yes; labs: Laboratories for various departments, computer lab with 100 desktop computers; classrooms: ; other: Hostel, cafeteria, Wi-Fi, medical facilities
+courses: {'name': 'Computer Science & Engineering', 'seats': '230 seats across all branches', 'fees': '₹33,900 per year for 3-year diploma courses', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('6751639e949256bec8688ab0')}, {'name': 'Electronics Engineering', 'seats': '230 seats across all branches', 'fees': '₹33,900 per year for 3-year diploma courses', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('6751639e949256bec8688ab1')}, {'name': 'Electrical Engineering', 'seats': '230 seats across all branches', 'fees': '₹33,900 per year for 3-year diploma courses', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('6751639e949256bec8688ab2')}, {'name': 'Cyber Forensic & Information Technology', 'seats': '230 seats across all branches', 'fees': '₹33,900 per year for 3-year diploma courses', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('6751639e949256bec8688ab3')}, {'name': 'Mechatronics Engineering', 'seats': '230 seats across all branches', 'fees': '₹33,900 per year for 3-year diploma courses', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('6751639e949256bec8688ab4')}, {'name': 'Mechanical (Automobile) Engineering', 'seats': '230 seats across all branches', 'fees': '₹33,900 per year for 3-year diploma courses', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('6751639e949256bec8688ab5')}, {'name': 'Proposed Fashion and Apparel Design', 'seats': '230 seats across all branches', 'fees': '₹33,900 per year for 3-year diploma courses', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('6751639e949256bec8688ab6')}
+admission_process: Admission is merit-based, based on CBSE 10th or RBSE 10th exam scores
+Application process is online through DTE Rajasthan
+cutoff: Specific cut-off details are unavailable
+placement: topRecruiters: Mundra Solar Power
+JCB
+Wipro
+NTPC
+DRDO
+IOCL
+Suzlon
+Bajaj Auto
+Indian Railways
+Delhi Metro
+Rajasthan Roadways
+Private firms like Wipro India Pvt. Ltd. and Koyo Bearing; statistics: Specific statistics information is unavailable; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College, Jhalawar, was established in 2006 and is located in Jhalawar,
+Rajasthan. Initially operating from the campus of Government Polytechnic College, Kota, it
+shifted to its own building in 2008. The college is affiliated with the Board of Technical
+Education Rajasthan, Jodhpur, and is AICTE approved. The total intake at the college is 230
+seats across various engineering branches. The branches offered include Computer Science &
+Engineering, Electronics Engineering, Electrical Engineering, Cyber Forensic & Information
+Technology, Mechatronics Engineering, Mechanical (Automobile) Engineering, and the
+proposed Fashion and Apparel Design. The college follows a merit-based admission process
+for After 10th Diploma courses, with CBSE 10th and RBSE 10th exam scores being accepted.
+The fee structure for the 3-year diploma courses is INR 33,900 per year, and the total seat
+intake is 240 students. The application process is online through DTE Rajasthan. The college
+provides placement opportunities with companies like Mundra Solar Power, JCB, Wipro,
+NTPC, DRDO, IOCL, Suzlon, Bajaj Auto, and others. Major employment sectors for students
+include Indian Railways, Delhi Metro, Rajasthan Roadways, and private firms like Wipro India
+Pvt. Ltd. and Koyo Bearing. The infrastructure includes laboratories for various departments,
+a computer lab with 100 desktop computers, a sports complex, a cafeteria, a library with
+4595 books, and a hostel with accommodation for 50 girls, along with a 24-hour water
+supply. For contact, the Lecturer at Government Polytechnic College, Jhalawar, Sh. Jagdeesh
+Prasad Meena, can be reached at +91 9413234009 or via email at
+gpc.jhalawar@rajasthan.gov.in. The fax number is 7432-233282. The college is located at
+RIICO Industrial Area, Near Industrial Training Institute, Jhalawar 326001, Rajasthan. Further
+details are available on the official website.
+
+__v: 0
+
+
+College: 23
+name: Government Polytechnic College, Jhunjhunu
+administrator: admin23
+information: Government Polytechnic College, Jhunjhunu, established in 2013, offers 3-year diploma courses in Electronics, Mechanical, Electrical, Computer, Civil, and Mechatronics Engineering, with a total intake of 300 students. The annual fee is ₹33,900. The 4.98-acre campus features a library with 3,840 books, fully equipped labs, Wi-Fi, a sports complex, medical facilities, CCTV surveillance, and e-learning resources. Admissions are merit-based, requiring 10th-grade completion.
+
+
+
+address: Abusar Ka Bas, Mandawa Road, Jhunjhunu, Rajasthan, PIN-333001
+contact: {'person': 'Asha Verma, Lecturer in Computer Engineering', 'phone': '01592-297007', 'email': 'gpc.jhunjhunu@rajasthan.gov.in', '_id': ObjectId('675165af949256bec8688ade')}, {'person': '', 'phone': '', 'email': 'gpc.jhunjhunu@gmail.com', '_id': ObjectId('67516813244e583407c75e4a')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcjhunjhunu', '_id': ObjectId('675165af949256bec8688adf')}
+infrastructure: library: 3,840 books and 15 journals; hostel: ; canteen: ; sports: Yes; labs: Fully equipped laboratories; classrooms: ; other: Free internet access, e-learning resources, CCTV surveillance, networked facilities
+courses: {'name': 'Electronics Engineering', 'seats': '', 'fees': '₹33,900 for the 3-year diploma program', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('675165af949256bec8688ae0')}, {'name': 'Mechanical Engineering', 'seats': '', 'fees': '₹33,900 for the 3-year diploma program', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('67516813244e583407c75e4d')}, {'name': 'Electrical Engineering', 'seats': '', 'fees': '₹33,900 for the 3-year diploma program', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('67516813244e583407c75e4e')}, {'name': 'Electrical Engineering', 'seats': '', 'fees': '₹33,900 for the 3-year diploma program', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('67516813244e583407c75e4f')}, {'name': 'Electrical Engineering', 'seats': '', 'fees': '₹33,900 for the 3-year diploma program', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('67516813244e583407c75e50')}, {'name': 'Electrical Engineering', 'seats': '', 'fees': '₹33,900 for the 3-year diploma program', 'eligibility': '10th grade completed with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('67516813244e583407c75e51')}
+admission_process: Admission is merit-based, based on CBSE or RBSE 10th exam scores
+Application process is online
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College, Jhunjhunu, established in 2013, is located in Jhunjhunu,
+Rajasthan, and operates under the Directorate of Technical Education Rajasthan and the
+Ministry of Technical Education. The college is approved by AICTE and affiliated with the
+Board of Technical Education Rajasthan. It offers three-year diploma courses in Electronics
+Engineering, Mechanical Engineering, Electrical Engineering, Computer Engineering, Civil
+Engineering, and Mechatronics Engineering, with a total intake capacity of 300 students.
+Admissions are merit-based, requiring scores from CBSE or RBSE 10th exams, with a course
+fee of INR 33,900 for the three-year program. The campus spans 4.98 acres and features
+modern infrastructure, including free internet access, e-learning resources, CCTV
+surveillance, and networked facilities. Amenities include a library with 3,840 books and 15
+journals, Wi-Fi, a sports complex, medical facilities, and fully equipped laboratories. The
+college has a team of experienced faculty, including Asha Verma, Lecturer in Computer
+Engineering, who plays a key role in curriculum development and can be contacted at 01592-
+297007 or via email at gpc.jhunjhunu@rajasthan.gov.in. While the college emphasizes
+improving placement opportunities for its graduates, detailed placement statistics are not
+currently available. The college is located at Abusar Ka Bas, Mandawa Road, Jhunjhunu,
+Rajasthan, PIN-333001, with contact details including phone number 01592-297007 and
+email addresses gpc.jhunjhunu@rajasthan.gov.in and gpc.jhunjhunu@gmail.com.
+
+__v: 0
+
+
+College: 24
+name: Government Polytechnic College, Jodhpur
+administrator: admin24
+information: Government Polytechnic College, Jodhpur, established in 1951, offers diploma programs in engineering with a total intake of 345 students. The college has a large campus with state-of-the-art infrastructure, including 31 labs, a computerized library with over 50,000 books, and sports and recreational facilities. Admissions are merit-based, with a tuition fee of INR 33,900 per year. Known for its focus on electronics, IT, and engineering, it provides strong academic support and excellent placement opportunities.
+
+
+
+address: Jodhpur, Rajasthan
+
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('67516827244e583407c75e60')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcjodhpur', '_id': ObjectId('67516827244e583407c75e61')}
+infrastructure: library: 50,963 books, 18 journals, 13 magazines, computerized and accommodates 50 students at a time; hostel:  4 hostels (3 operational)
+Boys' hostel: 54 rooms
+Girls' hostel: 24 rooms
+Equipped with mess facilities, water coolers, and recreation areas; canteen: ; sports: ; labs: ; classrooms: ; other: Cafeteria, Gym, Sports Complex, Wi-Fi Connectivity
+courses: {'name': 'Civil Engineering', 'seats': '', 'fees': '₹33,900 per year', 'eligibility': 'Merit-based admission through CBSE or RBSE 10th exams', '_id': ObjectId('67516827244e583407c75e62')}, {'name': 'Civil Engineering', 'seats': '', 'fees': '₹33,900 per year', 'eligibility': 'Merit-based admission through CBSE or RBSE 10th exams', '_id': ObjectId('675168f84f33f53d9ca14714')}, {'name': 'Mechanical Engineering', 'seats': '', 'fees': '₹33,900 per year', 'eligibility': 'Merit-based admission through CBSE or RBSE 10th exams', '_id': ObjectId('675168f84f33f53d9ca14715')}, {'name': 'Computer Science Engineering', 'seats': '', 'fees': '₹33,900 per year', 'eligibility': 'Merit-based admission through CBSE or RBSE 10th exams', '_id': ObjectId('675168f84f33f53d9ca14716')}, {'name': 'Electronics & Fiber Optics Engineering', 'seats': '', 'fees': '₹33,900 per year', 'eligibility': 'Merit-based admission through CBSE or RBSE 10th exams', '_id': ObjectId('675168f84f33f53d9ca14717')}, {'name': 'Petroleum Engineering', 'seats': '', 'fees': '₹33,900 per year', 'eligibility': 'Merit-based admission through CBSE or RBSE 10th exams', '_id': ObjectId('675168f84f33f53d9ca14718')}, {'name': 'IT-related disciplines', 'seats': '', 'fees': '₹33,900 per year', 'eligibility': 'Merit-based admission through CBSE or RBSE 10th exams', '_id': ObjectId('675168f84f33f53d9ca14719')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College, Jodhpur, established in 1951, initially operated as part of
+MBM Engineering College before becoming an independent entity in 1958. Located on a 227-
+bigha campus since 1961, the college was inaugurated by Rajasthan Governor Dr.
+Sampurnanand. Governed by the Directorate of Technical Education, Rajasthan, and affiliated
+with the Board of Technical Education, the college offers diploma programs in Civil
+Engineering, Electrical Engineering, Mechanical Engineering, Computer Science Engineering,
+Electronics & Fiber Optics Engineering, Petroleum Engineering, and IT-related disciplines.
+The current annual intake capacity is 345 students, with admissions based on merit in CBSE
+or RBSE 10th exams. The tuition fee is INR 33,900 per year.
+The campus features state-of-the-art infrastructure, including 31 well-equipped laboratories,
+classrooms, workshops, a cafeteria, a gym, a sports complex, and Wi-Fi connectivity. The
+college has four hostels, with three operational, providing 54 rooms each for boys and 24 for
+female students, equipped with mess facilities, water coolers, and recreation areas. The
+library, established in 1962, is the first computerized library among Rajasthan’s polytechnic
+colleges and houses 50,963 books, 18 journals, and 13 magazines, accommodating 50
+students at a time.
+__v: 0
+
+
+College: 25
+name: Government Polytechnic College, Karauli
+administrator: admin25
+information: 
+address: Karauli, Rajasthan (Currently operating from Alwar campus)
+Temporary Campus Location: GPC Alwar, Near Itarana Flyover, Alwar, Rajasthan, PIN: 301001
+contact: {'person': '', 'phone': '0144-2701645', 'email': 'gpc.karoli@gmail.com', '_id': ObjectId('67517297a2afdc4038b5fa37')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpckaroli', '_id': ObjectId('67517297a2afdc4038b5fa38')}
+infrastructure: library: ; hostel: Hostel:
+Three-seater rooms, ₹1,800 per month (excluding mess charges); canteen: ; sports: ; labs: ; classrooms: ; other: Library, Cafeteria, Sports Complex, Auditorium, Laboratories, Wi-Fi, Medical Services
+courses: {'name': 'Civil Engineering', 'seats': '60 students per branch', 'fees': 'Fee Structure: ₹33,900 per year\nAdditional Fees:\nOne-time admission fee: ₹200\nCaution deposit: ₹1,000 (boys), ₹500 (girls)', 'eligibility': 'Merit-based admission for candidates who have passed CBSE or RBSE 10th exams with at least 35% in Science and Mathematics', '_id': ObjectId('67517297a2afdc4038b5fa39')}, {'name': 'Mechanical Engineering', 'seats': '60 students per branch', 'fees': 'Fee Structure: ₹33,900 per year\nAdditional Fees:\nOne-time admission fee: ₹200\nCaution deposit: ₹1,000 (boys), ₹500 (girls)', 'eligibility': 'Merit-based admission for candidates who have passed CBSE or RBSE 10th exams with at least 35% in Science and MathematicsMerit-based admission for candidates who have passed CBSE or RBSE 10th exams with at least 35% in Science and Mathematics', '_id': ObjectId('6751765fa2afdc4038b5fb71')}, {'name': 'Electrical Engineering', 'seats': '60 students per branch', 'fees': 'Fee Structure: ₹33,900 per year\nAdditional Fees:\nOne-time admission fee: ₹200\nCaution deposit: ₹1,000 (boys), ₹500 (girls)', 'eligibility': 'Merit-based admission for candidates who have passed CBSE or RBSE 10th exams with at least 35% in Science and Mathematics', '_id': ObjectId('6751765fa2afdc4038b5fb72')}
+admission_process: Admission Process and Scholarships:
+
+Admission is merit-based, based on CBSE or RBSE 10th exam scores
+cutoff: Sigma Ltd.
+Subros Ltd.
+L&T
+Water Resources Department
+placement: topRecruiters: ; statistics: Salary packages range from ₹96,000 to ₹2.0 LPA; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: The college is currently operating from the Government Polytechnic College, Alwar campus while its own building in Karauli is under construction.
+__v: 0
+
+
+College: 26
+name: Government Polytechnic College, Kelwara
+administrator: admin26
+information: 
+address: Village Pahari, Tehsil Shahbad, District Baran, Rajasthan
+contact: {'person': '', 'phone': '+91 8079040149', 'email': 'gpc.kelwara@gmail.com', '_id': ObjectId('675172bfa2afdc4038b5fa41')}, {'person': '', 'phone': '', 'email': 'gpc.kelwara@rajasthan.gov.in', '_id': ObjectId('67517777a2afdc4038b5fb7e')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpckelwara', '_id': ObjectId('675172bfa2afdc4038b5fa42')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: Modern Classrooms, Well-Equipped Laboratories, Computer Labs, Library
+Building Completion: July 2019, constructed by PWD Baran
+courses: {'name': 'Civil Engineering', 'seats': '100 seats', 'fees': '', 'eligibility': '10th standard pass with Science and Mathematics, securing at least 35% marks\nAdmission based on CBSE or RBSE 10th exam scores', '_id': ObjectId('675172bfa2afdc4038b5fa43')}, {'name': 'Electrical Engineering', 'seats': '100 seats', 'fees': '', 'eligibility': '10th standard pass with Science and Mathematics, securing at least 35% marks\nAdmission based on CBSE or RBSE 10th exam scores', '_id': ObjectId('67517777a2afdc4038b5fb81')}, {'name': 'Mechanical Engineering', 'seats': '100 seats', 'fees': '', 'eligibility': '10th standard pass with Science and Mathematics, securing at least 35% marks\nAdmission based on CBSE or RBSE 10th exam scores', '_id': ObjectId('67517777a2afdc4038b5fb82')}, {'name': 'Electronics Engineering', 'seats': '100 seats', 'fees': '', 'eligibility': '10th standard pass with Science and Mathematics, securing at least 35% marks\nAdmission based on CBSE or RBSE 10th exam scores', '_id': ObjectId('67517777a2afdc4038b5fb83')}
+admission_process: Merit-based admission based on 10th exam scores
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: The college operates following the Rajasthan Government calendar for holidays.
+
+Government Polytechnic College, Kelwara, established in 2019, is a government institution
+located in Village Pahari, Tehsil Shahbad, District Baran, Rajasthan. The college is approved by
+AICTE and affiliated with the Board of Technical Education Rajasthan (BTER), Jodhpur. It
+offers multidisciplinary diploma programs in Civil, Electrical, Mechanical, and Electronics
+Engineering, with a total intake capacity of 100 seats. The infrastructure includes modern
+classrooms, well-equipped laboratories, computer labs, and a library. The college building
+was completed in July 2019 by PWD Baran. The diploma courses are AICTE-approved,
+spanning three years, and require students to have passed the 10th standard with Science
+and Mathematics, securing at least 35% marks. Admissions are based on CBSE or RBSE 10th
+exam scores. The faculty includes qualified professionals like Mr. Jitesh Kumar Meena, a
+lecturer at the college. For inquiries, the Principal, Shri Sajjan Singh Bajiya, can be contacted
+at +91 8079040149, and the college can be reached via email at gpc.kelwara@gmail.com or
+gpc.kelwara@rajasthan.gov.in. The college operates from 10:00 am to 5:00 pm, Monday to
+Saturday, and follows the Rajasthan Government calendar for holidays
+__v: 0
+
+
+College: 27
+name: Government Polytechnic College, Kota
+administrator: admin27
+information: Government Polytechnic College, Kota, established in 1951, offers 3-year diploma programs in Civil, Electrical, Mechanical, Electronics & Fiber Optics, Computer Science, and Petroleum Engineering. Spread across 90.87 acres, the campus features a library with 50,963 books, 31 labs, hostels for boys and girls, sports facilities, a gym, and an auditorium. Admissions are merit-based, with a fee of ₹33,900 for three years. The college emphasizes placement improvement and provides a robust academic environment with experienced faculty.
+
+address: Kota, Rajasthan
+contact: {'person': 'Principal’s Office Phone', 'phone': '01592-297007', 'email': 'gpc.kota@rajasthan.gov.in', '_id': ObjectId('675172e0a2afdc4038b5fa4b')}, {'person': '', 'phone': 'Fax: 01592-297007', 'email': '', '_id': ObjectId('675178aaa2afdc4038b5fb91')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpckota', '_id': ObjectId('675172e0a2afdc4038b5fa4c')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: Well-furnished classrooms, laboratories, workshops, seminar halls, and auditoriums
+Boys' and girls' hostels, cafeteria, common rooms, sports club
+Library housing 50,963 books, 18 journals, and 13 magazines (first computerized library among Rajasthan's polytechnic colleges, established in 1962)
+courses: {'name': 'Civil Engineering', 'seats': '', 'fees': 'NR 33,900 per year', 'eligibility': 'Merit-based admission based on CBSE or RBSE 10th exam scores', '_id': ObjectId('675172e0a2afdc4038b5fa4d')}, {'name': 'Electrical Engineering', 'seats': '', 'fees': 'NR 33,900 per year', 'eligibility': 'Merit-based admission based on CBSE or RBSE 10th exam scores', '_id': ObjectId('675178aaa2afdc4038b5fb94')}, {'name': 'Mechanical Engineering', 'seats': '', 'fees': 'NR 33,900 per year', 'eligibility': 'Merit-based admission based on CBSE or RBSE 10th exam scores', '_id': ObjectId('675178aaa2afdc4038b5fb95')}, {'name': 'Electronics & Fiber Optics Engineering', 'seats': '', 'fees': 'NR 33,900 per year', 'eligibility': 'Merit-based admission based on CBSE or RBSE 10th exam scores', '_id': ObjectId('675178aaa2afdc4038b5fb96')}, {'name': 'Computer Science Engineering', 'seats': '', 'fees': 'NR 33,900 per year', 'eligibility': 'Merit-based admission based on CBSE or RBSE 10th exam scores', '_id': ObjectId('675178aaa2afdc4038b5fb97')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College, Kota, established in 1951, is located in Kota, Rajasthan. The
+college shifted to its current premises in 1961 and offers 3-year diploma courses in Civil,
+Electrical, Mechanical, Electronics & Fiber Optics, and Computer Science Engineering. It
+operates under the Directorate of Technical Education Rajasthan and is affiliated with the
+Board of Technical Education Rajasthan, with AICTE approval. The college has a 90.87-acre
+campus with a total built-up area of 60,000 sq. meters, featuring well-furnished classrooms,
+laboratories, workshops, seminar halls, and auditoriums. It also includes boys' and girls'
+hostels, a cafeteria, common rooms, a sports club, and a library that houses 50,963 books, 18
+journals, and 13 magazines. The library was established in 1962 and is the first computerized
+library in Rajasthan's polytechnic colleges. The college offers UG and After 10th Diploma
+programs with an intake capacity of 300 students and a total fee of INR 33,900. Admissions
+are merit-based, relying on CBSE or RBSE 10th exam scores. The faculty, rated 4.33/5 by
+students, includes trained professionals in various engineering disciplines. Placement
+services are working to improve outcomes, though specific placement statistics or salary
+details are not provided. The college can be contacted via the Principal’s office at 01592-
+297007 (phone) and fax 01592-297007, with emails at gpc.kota@rajasthan.gov.in.
+
+__v: 0
+
+
+College: 28
+name: Government Polytechnic College, Mandore
+administrator: admin28
+information: Government Polytechnic College, Mandore, established in 2021, is affiliated with BTER and AICTE-approved. It offers 300 seats across diploma programs in Cyber Forensics & Information Security, Automation & Robotics, Mechatronics, and Civil & Environmental Engineering. The campus includes modern classrooms, labs, workshops, a library, and hostels, fostering a supportive learning environment. Admissions are based on 10th-grade qualifications from recognized boards. For inquiries, contact Principal Shri P.S. Tak or faculty during office hours.
+
+address: Jodhpur, Rajasthan
+
+contact: {'person': 'Mr. Manoj Kumar', 'phone': '8107318741', 'email': 'manojkumarparihar1991@gmail.com', '_id': ObjectId('675172f6a2afdc4038b5fa55')}
+websites: {'name': '', 'link': 'https://hte.rajasthan.gov.in/college/gpcmandore', '_id': ObjectId('675172f6a2afdc4038b5fa56')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: Facilities:
+Modern classrooms
+Laboratories
+Workshops
+Seminar and auditorium hall
+Library
+Staff quarters
+Student hostels
+Playgrounds
+Campus: Provides a supportive environment for teaching and learning
+
+courses: {'name': 'Cyber Forensic & Information Security Engineering', 'seats': '300 students across various diploma programs', 'fees': '₹33,900 annually\n', 'eligibility': '', '_id': ObjectId('675172f6a2afdc4038b5fa57')}, {'name': 'Automation & Robotics Engineering', 'seats': '300 students across various diploma programs', 'fees': '₹33,900 annually\n', 'eligibility': '', '_id': ObjectId('67517b844b411d369a9d24c1')}, {'name': 'Mechatronics Engineering', 'seats': '300 students across various diploma programs', 'fees': '₹33,900 annually\n₹33,900 annually\n', 'eligibility': '', '_id': ObjectId('67517b844b411d369a9d24c2')}, {'name': 'Civil & Environmental Engineering', 'seats': '300 students across various diploma programs', 'fees': '₹33,900 annually\n', 'eligibility': '', '_id': ObjectId('67517b844b411d369a9d24c3')}
+admission_process: Eligibility: Completion of 10th standard from a recognized board (RBSE 10th, CBSE 10th)
+Mode: Full-time diploma programs
+
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College (GPC) Mandore, established in 2021, is located in Jodhpur,
+Rajasthan. It is approved by the All India Council for Technical Education (AICTE) and
+operates under the Technical Education Department, Government of Rajasthan, as well as the
+Directorate of Technical Education, Rajasthan. The college offers diploma programs in four
+engineering branches: Cyber Forensic & Information Security Engineering, Automation &
+Robotics Engineering, Mechatronics Engineering, and Civil & Environment Engineering. GPC
+Mandore operates from the GPC Jodhpur campus, which is equipped with modern
+classrooms, laboratories, workshops, a library, a hostel, and recreational facilities. The
+college’s mission is to provide accessible technical education and skill-building opportunities
+to unemployed youth, with an emphasis on affordable education and quality technical
+training for deserving students. The college has a total intake of 300 students across its
+various diploma programs, all affiliated with the Board of Technical Education Rajasthan
+(BTER). The infrastructure includes seminar and auditorium halls, staff quarters, student
+hostels, and playgrounds. Admission requirements include completion of the 10th standard
+from a recognized board, such as RBSE or CBSE. The college operates from 10:00 am to 5:00
+pm, Monday through Saturday, with holidays according to the Rajasthan Government
+calendar. The Principal of the college is Shri P.S. Tak, and one of the faculty members, Mr.
+Manoj Kumar, can be contacted by phone at 8107318741 or via email at
+manojkumarparihar1991@gmail.com. Further contact details for admissions are not
+specified.
+
+__v: 0
+
+
+College: 29
+name: Government Polytechnic College, Nagaur
+administrator: admin29
+information: 
+address: Nagaur, Rajasthan
+contact: {'person': 'Mr. Ravi Sangwa, Lecturer in Electronics Engineering', 'phone': '7976884578', 'email': 'gpc.nagaur@rajasthan.gov.in', '_id': ObjectId('67517309a2afdc4038b5fa5f')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcnagaur', '_id': ObjectId('67517309a2afdc4038b5fa60')}
+infrastructure: library: Library with 620 books; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: Library with 620 books
+Sports complex and medical facilities
+Specialized laboratories for various engineering disciplines
+Top ratings in Campus Life, Placements, Faculty, and Infrastructure
+courses: {'name': 'Electrical Engineering', 'seats': '240 seats', 'fees': ' ₹33,900 annually\n', 'eligibility': 'Completion of the 10th standard exam from RBSE or CBSE\nMerit-based admission', '_id': ObjectId('67517309a2afdc4038b5fa61')}, {'name': 'Mechanical Engineering', 'seats': '240 seats', 'fees': ' ₹33,900 annually\n ₹33,900 annually\n', 'eligibility': 'Completion of the 10th standard exam from RBSE or CBSE\nMerit-based admission', '_id': ObjectId('67517c5f4b411d369a9d24d6')}, {'name': 'Civil Engineering', 'seats': '240 seats', 'fees': ' ₹33,900 annually\n', 'eligibility': 'Completion of the 10th standard exam from RBSE or CBSE\nMerit-based admission', '_id': ObjectId('67517c5f4b411d369a9d24d7')}, {'name': 'Computer Science Engineering', 'seats': '240 seats', 'fees': ' ₹33,900 annually\n', 'eligibility': 'Completion of the 10th standard exam from RBSE or CBSE\nMerit-based admission', '_id': ObjectId('67517c5f4b411d369a9d24d8')}, {'name': 'Electronics Engineering', 'seats': '240 seats', 'fees': ' ₹33,900 annually\n', 'eligibility': 'Completion of the 10th standard exam from RBSE or CBSE\nMerit-based admission', '_id': ObjectId('67517c5f4b411d369a9d24d9')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College (GPC) Nagaur, established in 2013, is a government
+institution located in Nagaur, Rajasthan. The college aims to be a center of excellence in
+technical education by equipping students with industry-relevant skills, promoting ethical
+values, leadership, and contributing to sustainable development. GPC Nagaur offers diploma
+programs in Electrical Engineering, Mechanical Engineering, Civil Engineering, Computer
+Science Engineering, and Electronics Engineering. It operates under public ownership and is
+approved by the All India Council for Technical Education (AICTE).
+The college offers a total of 240 seats across its programs, which span three years (six
+semesters). Admission is based on the 10th standard exam results from RBSE or CBSE, with
+an annual fee of ₹33,900. The infrastructure includes a library with 620 books, a sports
+complex, medical facilities, and specialized laboratories. The college has received top ratings
+in Campus Life, Placements, Faculty, and Infrastructure, each rated 5 out of 5.
+Faculty contact: Mr. Ravi Sangwa, Lecturer in Electronics Engineering, can be reached at
+7976884578 or via email at gpc.nagaur@rajasthan.gov.in. For further inquiries, the college is
+available during office hours.
+
+__v: 0
+
+
+College: 30
+name: Government Polytechnic College, Neemrana
+administrator: admin30
+information: 
+address: Alwar, Rajasthan
+contact: {'person': 'Mr. Mukesh Kumar Gothwal', 'phone': '8949516215', 'email': 'mkgothwal78@gmail.com', '_id': ObjectId('67517324a2afdc4038b5fa69')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcneemrana', '_id': ObjectId('67517324a2afdc4038b5fa6a')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: Additional facilities like Wi-Fi, auditorium, medical services, etc
+courses: {'name': 'Computer Science Engineering', 'seats': '', 'fees': '₹33,900 per year', 'eligibility': '10th Standard with 35% marks in Science and Mathematics from RBSE or CBSE', '_id': ObjectId('67517324a2afdc4038b5fa6b')}, {'name': 'Electronics Engineering', 'seats': '', 'fees': '₹33,900 per year', 'eligibility': '10th Standard with 35% marks in Science and Mathematics from RBSE or CBSE', '_id': ObjectId('67517d674b411d369a9d24e9')}, {'name': 'Mechanical Automobile Engineering', 'seats': '', 'fees': '₹33,900 per year', 'eligibility': '10th Standard with 35% marks in Science and Mathematics from RBSE or CBSE', '_id': ObjectId('67517d674b411d369a9d24ea')}
+admission_process: dmissions are merit-based, and students must meet the eligibility criteria based on 10th standard marks from recognized boards (CBSE/RBSE).
+Scholarships, if any, will be provided according to the Rajasthan government guidelines.
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: The college is spread across 10 acres with a built-up area of 6,318 square meters.
+Facilities include a library, auditorium, cafeteria, gym, medical services, hostel, labs, sports complex, and Wi-Fi.
+Focus on equipping students with industry-relevant skills.
+alumni: 
+events_activities: 
+governance: 
+other: Established in 2006, Government Polytechnic College (GPC) Neemrana is a public institution
+located in Alwar, Rajasthan. The college offers diploma programs in Computer Science
+Engineering, Electronics Engineering, and Mechanical Automobile Engineering, focusing on
+equipping students with industry-relevant skills. GPC Neemrana is spread across 10 acres,
+with a built-up area of 6,318 square meters, including instructional, administrative, and
+amenities spaces.
+The college offers 164 seats for its three-year diploma programs, which are open to students
+who have completed their 10th standard education with at least 35% marks in Science and
+Mathematics from recognized boards like RBSE or CBSE. The annual fee for these programs is
+₹33,900. The campus includes a library, auditorium, cafeteria, gym, medical facilities, hostel,
+labs, sports complex, and Wi-Fi, ensuring a well-rounded learning environment.
+Faculty member Mr. Mukesh Kumar Gothwal, a Lecturer, can be contacted at 8949516215 or
+via email at mkgothwal78@gmail.com.
+__v: 0
+
+
+College: 31
+name: Government Polytechnic College, Pali
+administrator: admin31
+information: Government Polytechnic College, Pali, established in 1988, offers 3-year diploma programs in Electrical, Electronics, and Textile Design Engineering. Admission is merit and entrance-based, requiring 10th-grade completion with 35% marks in Science and Mathematics. With a 70-acre campus, it features modern classrooms, labs, workshops, a library with 6,048 books, a 30-bed girls' hostel, and sports facilities. Focused on innovation and community development, the college supports skill-building for unemployed youth through the CDTP scheme. Annual fees are ₹33,900. Contact the principal for further details during office hours.
+
+address:  Pali, Rajasthan
+Temporary campus located 6 km from the Jalore Bus Stand and 10 km from the Pali Railway Station
+contact: {'person': 'Ram Karan Patel (Lecturer)', 'phone': '+91-8058139685', 'email': 'gpc.jalore@rajasthan.gov.in', '_id': ObjectId('6751733ba2afdc4038b5fa73')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcpali', '_id': ObjectId('6751733ba2afdc4038b5fa74')}
+infrastructure: library: 404 books available for reference.; hostel: Boys' hostel with 24 beds.; canteen: ; sports: ; labs: 10 well-equipped laboratories for practical learning.; classrooms: ; other:  Wi-Fi, medical facilities, gym, and auditorium for a well-rounded learning environment.
+courses: {'name': 'Electrical Engineering', 'seats': '', 'fees': '₹33,900 per year', 'eligibility': '10th Standard with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('6751733ba2afdc4038b5fa75')}, {'name': 'Electronics Engineering', 'seats': '', 'fees': '₹33,900 per year', 'eligibility': '10th Standard with Science and Mathematics from CBSE or RBSE10th Standard with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('67517fae35d2f598b31209e5')}, {'name': 'Computer Science Engineering', 'seats': '', 'fees': '₹33,900 per year', 'eligibility': '10th Standard with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('67517fae35d2f598b31209e6')}
+admission_process: Admissions are merit-based, with candidates needing to have completed their 10th standard with Science and Mathematics from CBSE or RBSE.
+cutoff: 
+placement: topRecruiters: SUBROS Limited, Ahmedabad
+Bhagwati Products Ltd., Bhiwadi
+; statistics: 2021-2022 Placements:
+Kishor Sahu and Karan Panwar (Electrical Engineering) placed at SUBROS Limited, Ahmedabad with a package of INR 1.92 LPA.
+Ravi Shankar (Electrical Engineering) placed at Bhagwati Products Ltd., Bhiwadi with a package of INR 1.26 LPA.; averagePackages: INR 1.26 LPA to INR 1.92 LPA for placements in 2021-2022.; other: The college operates from a temporary campus and is committed to providing industry-relevant education with ample facilities.
+The infrastructure includes modern amenities such as Wi-Fi, a sports complex, and medical services.
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College, Pali, was established in 2010 and is located in Pali,
+Rajasthan, with a temporary campus situated 6 km from the Jalore Bus Stand and 10 km from
+the Pali Railway Station. The college is affiliated with the Board of Technical Education
+Rajasthan (BTER), Jodhpur. It offers 3-year diploma programs after 10th grade in various
+engineering disciplines, including Electrical Engineering, Electronics Engineering, and
+Computer Science and Engineering, with a total intake of 90 students. The tuition fees for the
+program are INR 33,900 per year. Admission is merit-based, requiring completion of 10th
+grade with Science and Mathematics from a recognized board, such as CBSE or RBSE. The
+infrastructure includes a library with 404 books, 10 well-equipped labs, a boys' hostel with
+24 beds, a sports complex, cafeteria, Wi-Fi, medical facilities, a gym, and an auditorium. In the
+2021-2022 placements, notable students such as Kishor Sahu and Karan Panwar (both from
+Electrical Engineering) were placed at SUBROS Limited, Ahmedabad with a package of INR
+1.92 LPA, and Ravi Shankar (Electrical Engineering) was placed at Bhagwati Products Ltd.,
+Bhiwadi with a package of INR 1.26 LPA. Companies like SUBROS Limited and Bhagwati
+Products Ltd. also recruit from the college. The college is managed by Lecturer Ram Karan
+Patel, who can be reached at +91-8058139685 or via email at gpc.jalore@rajasthan.gov.in.
+The fax number is 8058139685.
+
+__v: 0
+
+
+College: 32
+name: Government Polytechnic College, Pratapgarh
+administrator: admin32
+information: 
+address: Dhariyawad Road, Near Police Line, Pratapgarh, Rajasthan
+contact: {'person': 'Vishal Pareek (Lecturer)', 'phone': '+91-8386016020', 'email': 'gpc.pratapgarh@rajasthan.gov.in', '_id': ObjectId('6751734fa2afdc4038b5fa7d')}, {'person': 'General Inquiries', 'phone': '+91-9785541733', 'email': 'gpcpratapgarh094@gmail.com', '_id': ObjectId('675184ed92a1cc1ec540eb90')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcpratapgarp', '_id': ObjectId('6751734fa2afdc4038b5fa7e')}
+infrastructure: library: ; hostel: ; canteen: ; sports: Sports complex and gym available.; labs: State-of-the-art labs for practical learning.; classrooms: ; other: Wi-Fi-enabled campus, medical facilities.
+courses: {'name': 'Electronics Engineering\t', 'seats': '', 'fees': '₹35,610 per year', 'eligibility': '10th Standard with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('6751734fa2afdc4038b5fa7f')}, {'name': 'Mechanical Engineering', 'seats': '', 'fees': '₹35,610 per year', 'eligibility': '10th Standard with Science and Mathematics from CBSE or RBSE', '_id': ObjectId('675184ed92a1cc1ec540eb93')}
+admission_process: Admissions are based on entrance exams and merit, with JEECUP (Joint Entrance Examination Council Uttar Pradesh) being the accepted entrance exam.
+
+cutoff: 
+placement: topRecruiters: Krishna Maruti, Manesar
+Sunbeam Auto Ltd., Bhiwadi
+Alicon Castalloy Ltd., Pune
+Tokai Rubber Auto Part Pvt Ltd., Neemrana; statistics: ; averagePackages: ; other: The college offers a comprehensive infrastructure to support both academic and extracurricular activities, with strong placement opportunities.
+The college aims to provide industry-relevant skills with state-of-the-art facilities for practical learning.
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College, Pratapgarh, located on Dhariyawad Road near the Police
+Line in Pratapgarh, Rajasthan, was established to provide quality technical education. The
+college offers three-year diploma programs in Electronics Engineering and Mechanical
+Engineering, with a total intake of 180 students. These programs are designed for students
+who have completed their 10th-grade education, with eligibility requiring a minimum of 35%
+marks in Science and Mathematics. Admission is based on both entrance exams and merit,
+with the Joint Entrance Examination Council Uttar Pradesh (JEECUP) being the accepted
+exam for entrance. The annual fee for these courses is ₹35,610. The institution is approved by
+the All India Council for Technical Education (AICTE) and offers a comprehensive
+infrastructure, including a library, cafeteria, sports complex, gym, medical facilities, Wi-Fienabled campus, and state-of-the-art labs. The college has a strong placement record, with
+notable companies such as Krishna Maruti, Manesar, Sunbeam Auto Ltd., Bhiwadi, Alicon
+Castalloy Ltd., Pune, and Tokai Rubber Auto Part Pvt Ltd., Neemrana hiring students. The
+college has an overall student review score of 4.2, with strengths in Campus Life (4.5),
+Placements (4.0), Faculty (4.3), and Infrastructure (4.3). Faculty contact includes Mr. Vishal
+Pareek, a Lecturer in Computer Engineering, available at 8386016020 or via email at
+gpc.pratapgarh@rajasthan.gov.in. General inquiries can be directed to the main office at
+9785541733 or gpcpratapgarh094@gmail.com.
+__v: 0
+
+
+College: 33
+name: Government Polytechnic College, Rajsamand
+administrator: admin33
+information: 
+address:  Opposite Mecson Marble, N.H.-8, Jawad, Rajsamand, Rajasthan (313324)
+
+contact: {'person': 'Academic Guidance: Ashish Kumar Mamodonia (Lecturer)', 'phone': '', 'email': '', '_id': ObjectId('67517364a2afdc4038b5fa87')}, {'person': 'General Inquiries', 'phone': '+91-02952-221197', 'email': '', '_id': ObjectId('6751865892a1cc1ec540eba2')}, {'person': 'Alternate Contact', 'phone': '+91-9772464354', 'email': '', '_id': ObjectId('6751865892a1cc1ec540eba3')}, {'person': 'Alternate Contact', 'phone': '+91-9352689452\t', 'email': '', '_id': ObjectId('6751865892a1cc1ec540eba4')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcrajsamand', '_id': ObjectId('67517364a2afdc4038b5fa88')}
+infrastructure: library: Well-stocked library with academic resources for all offered disciplines.; hostel: ; canteen: Provides hygienic and affordable food options.; sports: Sports facilities and recreational spaces available.; labs: Fully equipped, department-specific laboratories for practical learning.; classrooms: Modern classrooms with adequate seating and teaching aids.; other: Wi-Fi, medical services, and general amenities to support student life
+courses: {'name': 'Computer Science Engineering', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': 'Passed 10th Standard with Science and Mathematics (CBSE/RBSE)', '_id': ObjectId('67517364a2afdc4038b5fa89')}, {'name': 'Electrical Engineering', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': 'Passed 10th Standard with Science and Mathematics (CBSE/RBSE)', '_id': ObjectId('6751865892a1cc1ec540eba7')}, {'name': 'Electronics Engineering', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': 'Passed 10th Standard with Science and Mathematics (CBSE/RBSE)', '_id': ObjectId('6751865892a1cc1ec540eba8')}, {'name': 'Robotics Engineering', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': 'Passed 10th Standard with Science and Mathematics (CBSE/RBSE)', '_id': ObjectId('6751865892a1cc1ec540eba9')}
+admission_process: Admissions are merit-based and/or require entrance exam results.
+Candidates must have passed the 10th standard with Science and Mathematics from recognized boards such as CBSE or RBSE.
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: The college is committed to providing technical education aligned with industry demands.
+A comprehensive learning environment with state-of-the-art infrastructure supports academic and extracurricular activities.
+
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College, Rajsamand, founded in 2006, is a recognized technical
+institution located on N.H.-8 in Jawad village, near Mecson Marble, Rajasthan (postal code
+313324). It is dedicated to providing quality technical education, offering diploma programs
+in Computer Science, Electrical Engineering, Electronics Engineering, and Robotics
+Engineering, all approved by AICTE.
+The college offers a total of 160 seats across its programs, with tuition fees set at ₹33,900
+annually. Admissions are based on merit and entrance exams, with candidates required to
+have passed their 10th standard from recognized boards such as CBSE or RBSE.
+The college is equipped with specialized laboratories for each department, a library, medical
+services, sports facilities, Wi-Fi, and more, creating a holistic learning environment. The
+infrastructure supports both academic and extracurricular activities. The college also
+emphasizes providing career opportunities for its students through placement programs.
+Faculty Contact: Mr. Ashish Kumar Mamodonia, Lecturer, is available for academic guidance.
+Contact Information: For further details, you can contact the college at 02952-221197,
+9772464354, or 9352689452, or via email at gpc.rajsamand@rajasthan.gov.in.
+__v: 0
+
+
+College: 34
+name: Government Polytechnic College, Sawai Madhopur
+administrator: admin34
+information: 
+address: Sawai Madhopur, Rajasthan
+contact: {'person': 'General Inquiries', 'phone': '+91-9460220648', 'email': 'gpc.smadhopur@rajasthan.gov.in', '_id': ObjectId('67517376a2afdc4038b5fa91')}, {'person': 'Placement Officer: Avinash Sharma', 'phone': '', 'email': '', '_id': ObjectId('675187274e472b6704802c6f')}, {'person': 'Fax', 'phone': '+91-07462220891\t', 'email': '', '_id': ObjectId('675187274e472b6704802c70')}
+websites: {'name': '', 'link': '', '_id': ObjectId('67517376a2afdc4038b5fa92')}
+infrastructure: library: 13,500 books and 8 journals to support academic learning.; hostel:  Separate 24-bed hostels for boys and girls.; canteen:  Provides affordable and hygienic food options.; sports: A well-maintained sports complex for recreational activities.; labs: Modern, well-equipped laboratories for practical learning.; classrooms: Adequate classrooms with necessary teaching aids; other: Includes a gym, auditorium, Wi-Fi access, and medical services to ensure a comprehensive student experience.
+courses: {'name': 'Electrical Engineering', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': 'Passed 10th Standard with Science and Mathematics (CBSE/RBSE)', '_id': ObjectId('67517376a2afdc4038b5fa93')}, {'name': 'Electronics Engineering\t', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': 'Passed 10th Standard with Science and Mathematics (CBSE/RBSE)', '_id': ObjectId('675187274e472b6704802c73')}, {'name': 'Mechanical Engineering', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': 'Passed 10th Standard with Science and Mathematics (CBSE/RBSE)', '_id': ObjectId('675187274e472b6704802c74')}, {'name': 'Mechatronics Engineering', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': 'Passed 10th Standard with Science and Mathematics (CBSE/RBSE)', '_id': ObjectId('675187274e472b6704802c75')}
+admission_process: Admissions are merit-based and/or require entrance exam scores.
+Eligibility: Completion of the 10th standard with Science and Mathematics from recognized boards such as CBSE or RBSE.
+cutoff: 
+placement: topRecruiters: The college has an active placement program with notable recruiters including:
+Sigma Engineered Solution: Offered ₹15,000/month to 12 Electrical Engineering students.
+K.S. Motors: Offered ₹13,500/month to two Electrical Engineering students.
+Rama Aircon India Pvt. Ltd.: Offered ₹27,000/month to a Mechanical Engineering graduate.
+Other recruiters include Sri Kripa Hyundai and NBC.; statistics: Placement Year	Company	Position	Salary Offered
+2024	Sigma Engineered Solution	Electrical Engineers	₹15,000/month
+2024	K.S. Motors	Electrical Engineers	₹13,500/month
+2024	Rama Aircon India Pvt. Ltd.	Mechanical Engineer	₹27,000/month; averagePackages: ; other: The college emphasizes both academic excellence and extracurricular development, supported by robust infrastructure and student-focused initiatives.
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College, Sawai Madhopur, established in 1988, is a public
+technical institution located in Sawai Madhopur, Rajasthan. The college offers diploma
+programs in Electrical Engineering, Electronics Engineering, Mechanical Engineering, and
+Mechatronics Engineering, with a total of 148 seats. The programs are AICTE-approved,
+ensuring quality technical education. Admission is based on merit and entrance exams, with
+eligibility requiring completion of the 10th standard from recognized boards like CBSE or
+RBSE. The annual tuition fee is ₹33,900.
+The college is committed to career development, with a structured placement program. In
+recent years, prominent companies like K.S. Motors, Sri Kripa Hyundai, Sigma Engineered
+Solution, and NBC have recruited students from various engineering disciplines. Notably, in
+the 2024 placement season, Sigma Engineered Solution offered ₹15,000 per month to 12
+Electrical Engineering students, K.S. Motors provided ₹13,500 per month to two Electrical
+Engineering students, and Rama Aircon India Pvt. Ltd. offered ₹27,000 per month to a
+Mechanical Engineering graduate.
+The college provides comprehensive infrastructure, including a library with 13,500 books and
+8 journals, separate boys' and girls' hostels with 24-bed capacity each, a sports complex, gym,
+cafeteria, auditorium, well-equipped labs, Wi-Fi access, and medical facilities. These
+amenities support both academic learning and extracurricular activities.
+Contact Information: For inquiries, the college can be reached at 9460220648 or via email
+at gpc.smadhopur@rajasthan.gov.in. The fax number is 07462220891. For placement-related
+queries, Mr. Avinash Sharma, the Placement Officer, is available for guidance.
+
+__v: 0
+
+
+College: 35
+name: Government Polytechnic College, Sikar
+administrator: admin35
+information: cements, and available resources at GPC Sikar.
+Summary: Government Polytechnic College, Sikar, established in 2006, offers 3-year diploma programs in Electrical, Electronics, Mechanical, and Mechatronics Engineering, with a total intake of 140 students. Admissions are based on merit and entrance exam scores, with an annual fee of ₹33,900. The college has a strong placement record, with 57 placements in 2021-22, and provides resources like a library with 7,420 books, sports complex, cafeteria, Wi-Fi-enabled campus, hostels, and practical training labs. For academic inquiries, contact Mr. Rachit Jangir, and for placement assistance, reach Dr. Vikas Marwal.
+
+
+
+address: Jaipur Bikaner By-Pass, Chandpura Via - Bajajgram, Sikar, Rajasthan
+
+contact: {'person': 'Dr. Vikas Marwal (Assistant Training and Placement Officer)', 'phone': '6367752398', 'email': 'iiicell.gpcsikar@gmail.com', '_id': ObjectId('67517391a2afdc4038b5fa9b')}, {'person': 'Mr. Rachit Jangir (Computer Engineering)', 'phone': '8426020572', 'email': 'rachitrjangir@rajasthan.gov.in', '_id': ObjectId('675187e04e472b6704802c88')}, {'person': '', 'phone': 'Fax: 01572-274020', 'email': '', '_id': ObjectId('675187e04e472b6704802c89')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcsikar', '_id': ObjectId('67517391a2afdc4038b5fa9c')}, {'name': '', 'link': '', '_id': ObjectId('675187e04e472b6704802c8b')}
+infrastructure: library: : 7,420 books
+; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: Sports complex
+Cafeteria
+Wi-Fi-enabled campus
+Hostels
+Practical training laboratories
+Gym
+Medical services
+
+courses: {'name': 'Electrical Engineering', 'seats': 'Total Seats: 140', 'fees': ' ₹33,900 annually\n', 'eligibility': 'Completion of 10th standard from recognized boards (CBSE/RBSE)\nAdmission based on merit and entrance exam scores\n', '_id': ObjectId('67517391a2afdc4038b5fa9d')}, {'name': 'Electronics Engineering', 'seats': 'Total Seats: 140', 'fees': ' ₹33,900 annually\n', 'eligibility': 'Completion of 10th standard from recognized boards (CBSE/RBSE)\nAdmission based on merit and entrance exam scores\n', '_id': ObjectId('675187e04e472b6704802c8d')}, {'name': 'Mechanical Engineering', 'seats': 'Total Seats: 140', 'fees': ' ₹33,900 annually\n', 'eligibility': 'Completion of 10th standard from recognized boards (CBSE/RBSE)\nAdmission based on merit and entrance exam scores\n', '_id': ObjectId('675187e04e472b6704802c8e')}, {'name': 'Mechatronics Engineering', 'seats': '', 'fees': ' ₹33,900 annually\n', 'eligibility': 'Completion of 10th standard from recognized boards (CBSE/RBSE)\nAdmission based on merit and entrance exam scores\n', '_id': ObjectId('675187e04e472b6704802c8f')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: ; statistics: Placement Statistics:
+2017–18: 18 placements, 2 higher studies
+2018–19: 38 placements, 2 higher studies, 1 self-employed
+2020–21: 45 placements
+2021–22: 57 placements
+; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: 
+__v: 0
+
+
+College: 36
+name: Government Polytechnic College, Sirohi
+administrator: admin36
+information: Sh. Gokul Bhai Bhatt Government Polytechnic College, Sirohi, established in 1993, offers diploma programs in Electronics Engineering, Electrical Engineering, Computer Science & Engineering, and Electronics (Robotics). The college, AICTE-approved, provides both after 10th and lateral entry admissions. It features modern infrastructure, including well-equipped computer labs and hands-on training facilities. The college has a strong focus on academic excellence and industry-readiness, with a dedicated placement cell to support student career development. The intake capacity has expanded over the years to accommodate growing demand.
+
+address: Near Village Mandwa, 5 km from Sirohi Bus Stand, Sirohi, Rajasthan
+contact: {'person': 'General Inquiries', 'phone': '', 'email': '', '_id': ObjectId('675173a5a2afdc4038b5faa5')}, {'person': 'Lecturer: Dr. Jinesh Kumar Singh', 'phone': '', 'email': '', '_id': ObjectId('675188a44e472b6704802c9f')}
+websites: {'name': '', 'link': 'http://www.hte.rajasthan.gov.in/college/gpcsirohi', '_id': ObjectId('675173a5a2afdc4038b5faa6')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs:  Includes a well-equipped computer lab and facilities for hands-on training.; classrooms: Modern and equipped for effective learning.; other: Offers quality training facilities and a focus on research and consultancy
+courses: {'name': 'Electronics Engineering', 'seats': '40\n', 'fees': '', 'eligibility': 'Passed Class 10 for 3-year diploma; 10+2 (PCM) or ITI for lateral entry', '_id': ObjectId('675173a5a2afdc4038b5faa7')}, {'name': 'Electrical Engineering', 'seats': '40', 'fees': '', 'eligibility': 'Passed Class 10 for 3-year diploma; 10+2 (PCM) or ITI for lateral entry', '_id': ObjectId('675188a44e472b6704802ca2')}, {'name': 'Computer Science & Engineering', 'seats': 'Seats Not Specified', 'fees': '', 'eligibility': 'Passed Class 10 for 3-year diploma; 10+2 (PCM) or ITI for lateral entry', '_id': ObjectId('675188a44e472b6704802ca3')}, {'name': 'Electronics (Robotics)', 'seats': '30', 'fees': '', 'eligibility': 'Passed Class 10 for 3-year diploma; 10+2 (PCM) or ITI for lateral entry', '_id': ObjectId('675188a44e472b6704802ca4')}
+admission_process: Pathways:
+3-Year Diploma: For students who have completed Class 10.
+2-Year Lateral Entry Program: For students with 10+2 (PCM) or ITI qualifications.
+Admission is based on merit and entrance exams.
+Visit the official website for detailed information and application procedures.
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: The college emphasizes industry readiness, offering hands-on training and career guidance through its placement cell.
+alumni: 
+events_activities: 
+governance: 
+other: Sh. Gokul Bhai Bhatt Government Polytechnic College, Sirohi, established in 1993, is a coeducational institution dedicated to providing high-quality, value-based technical education.
+Located near Village Mandwa, 5 km from Sirohi Bus Stand, the college focuses on equipping
+students with the skills needed for successful careers in various engineering fields.
+Initially starting in 1988 with three-year diploma courses in Electronics Engineering and
+Electrical Engineering, each with an intake of 20 students, the college expanded its capacity
+over the years. By 2005-2006, the intake increased to 40 students per branch. A new
+discipline, Computer Science & Engineering, was added in 2006-2007. Further growth came
+in 2020-2021 with the introduction of a new branch, Electronics (Robotics), which
+accommodates 30 students. The college now offers diploma programs in Electronics
+Engineering, Electrical Engineering, Computer Science & Engineering, and Electronics
+(Robotics), all approved by AICTE.
+The college boasts modern infrastructure, including a well-equipped computer lab, quality
+training facilities, and a strong focus on research and consultancy services. This commitment
+to educational excellence has contributed to its recognition and growth in the field of
+technical education.
+Admissions are open for two pathways: a 3-year program for students who have completed
+Class 10 and a 2-year lateral entry program for those with 10+2 (PCM) or ITI qualifications.
+The college supports students' academic success through an updated curriculum and handson training. The principal and the placement cell are active in guiding students through their
+educational and career journeys, ensuring they are industry-ready.
+The college's official website, http://www.hte.rajasthan.gov.in/college/gpcsirohi, provides
+detailed information and facilitates the admission process. Led by professionals such as Dr.
+Jinesh Kumar Singh, a lecturer in Computer Engineering, the college aims to produce
+graduates who are skilled and prepared to meet industry demands.
+__v: 0
+
+
+College: 37
+name: Government Polytechnic College, Sriganganagar
+administrator: admin37
+information: 
+address: 
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('675173c6a2afdc4038b5fab3')}
+websites: {'name': '', 'link': '', '_id': ObjectId('675173c6a2afdc4038b5fab4')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: 
+courses: {'name': '', 'seats': '', 'fees': '', 'eligibility': '', '_id': ObjectId('675173c6a2afdc4038b5fab5')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: 
+__v: 0
+
+
+College: 38
+name: Government Polytechnic College, Tonk
+administrator: admin38
+information: Government Polytechnic College, Tonk, established in 2011, offers 3-year diploma programs in Civil, Computer Science, Electrical, Electronics, and Mechanical Engineering, with a total intake of 180 students. Admissions are based on merit and entrance exam scores, with an annual fee of ₹33,900. The academic session runs from July to March, with a summer session from April to June. The college provides essential facilities such as a library, sports complex, medical services, auditorium, and well-equipped labs. For academic inquiries, contact Mr. Mukesh Kumar Yadav, Lecturer in Computer Science. The 2024 admissions open on June 10th, with classes starting on August 16th.
+
+address: Village Borkhandi Khurd, near Banas Bridge, Jaipur Road, Tonk, Rajasthan
+contact: {'person': 'Mr. Mukesh Kumar Yadav (Computer Science Lecturer)\t', 'phone': '1432260888', 'email': '', '_id': ObjectId('675173dea2afdc4038b5fabd')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpctonk', '_id': ObjectId('675173dea2afdc4038b5fabe')}
+infrastructure: library: Well-stocked library for academic resources; hostel: ; canteen: ; sports: Sports complex to encourage physical activities; labs: Fully equipped laboratories for practical and hands-on training; classrooms: Modern, conducive to learningModern, conducive to learning; other:  Includes an auditorium and medical facilities
+courses: {'name': 'Civil Engineering', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': 'Passed 10th standard from recognized boards', '_id': ObjectId('675173dea2afdc4038b5fabf')}, {'name': 'Computer Science & Engineering', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': 'Passed 10th standard from recognized boards', '_id': ObjectId('675189414e472b6704802cb8')}, {'name': 'Electrical Engineering', 'seats': '', 'fees': '₹33,900 annually₹33,900 annually', 'eligibility': 'Passed 10th standard from recognized boards', '_id': ObjectId('675189414e472b6704802cb9')}, {'name': 'Electronics Engineering', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': 'Passed 10th standard from recognized boards', '_id': ObjectId('675189414e472b6704802cba')}, {'name': 'Mechanical Engineering', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': 'Passed 10th standard from recognized boards', '_id': ObjectId('675189414e472b6704802cbb')}
+admission_process: Application Timeline:
+Online applications: June 10 – July 5, 2024
+Classes commence: August 16, 2024
+Direct admissions for vacant seats: August 20 – 23, 2024
+Eligibility: Completion of 10th grade from a recognized board.
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: Academic Schedule
+July to March: 9:00 AM – 4:00 PM
+April to June: 7:30 AM – 1:30 PM
+
+GPC Tonk emphasizes affordability and quality education, supported by a strong infrastructure and dedicated faculty.
+alumni: 
+events_activities: 
+governance: 
+other: Government Polytechnic College, Tonk, established in 2011, is located in Village Borkhandi
+Khurd, near the Banas Bridge on Jaipur Road, Tonk, Rajasthan. Affiliated with AICTE and
+BTER, the college offers diploma programs in five engineering disciplines: Civil Engineering,
+Computer Science & Engineering, Electrical Engineering, Electronics Engineering, and
+Mechanical Engineering. With an intake capacity of 180 students, GPC Tonk provides an
+affordable education with a tuition fee of ₹33,900 per year.
+The college features modern infrastructure, including a well-stocked library, sports complex,
+medical services, auditorium, and fully-equipped laboratories to support hands-on learning.
+The academic schedule is from 9 AM to 4 PM during July to March, and 7:30 AM to 1:30 PM
+from April to June.
+GPC Tonk is currently accepting online applications for the 2024 academic year, from June 10
+to July 5, with classes beginning on August 16. Direct admissions for vacant seats will be
+available from August 20 to 23, 2024. For more information, prospective students can contact
+Mr. Mukesh Kumar Yadav, a Computer Science Lecturer, at 1432260888 or via email at
+gpc.tonk@rajasthan.gov.in.
+__v: 0
+
+
+College: 39
+name: Government Polytechnic College, Udaipur
+administrator: admin39
+information: 
+address: Udaipur, Rajasthan
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('675173f8a2afdc4038b5fac7')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcudaipur', '_id': ObjectId('675173f8a2afdc4038b5fac8')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: Campus Area: 2 hectares
+Plinth Area: 4,764 sq. m.
+Construction Details: Built by the Public Works Department, Udaipur, from March 2016 to December 2017 at a cost of ₹677 lakh
+Facilities:
+Departments: Electrical Engineering, Civil Engineering, Mechanical Engineering, and Humanities
+Well-equipped labs and classrooms
+courses: {'name': 'Civil Engineering', 'seats': '54', 'fees': '', 'eligibility': '10th pass or lateral entry for diploma/10+2/ITI', '_id': ObjectId('675173f8a2afdc4038b5fac9')}, {'name': 'Mechanical Engineering', 'seats': '54', 'fees': '', 'eligibility': '10th pass or lateral entry for diploma/10+2/ITI', '_id': ObjectId('675189e34e472b6704802ccb')}, {'name': 'Electrical Engineering', 'seats': '54', 'fees': '', 'eligibility': '10th pass or lateral entry for diploma/10+2/ITI', '_id': ObjectId('675189e34e472b6704802ccc')}
+admission_process: t-Year Admission:
+Eligibility: 10th pass from a recognized board
+Lateral Entry Admission:
+Eligibility: Diploma holders, 10+2 with Science/Technical, or ITI qualified
+
+AICTE Scholarships:
+Pragati: For girl students
+Saksham: For differently-abled students
+Swanath: For students in need of financial aid
+Post Matric Scholarships: For SC/ST/OBC/EBC students
+Minority Scholarships: Provided by the Ministry of Minority Affairs
+cutoff: 
+placement: topRecruiters: ; statistics: Placement Statistics (2022-23):
+Total Placements: 89
+Highest Package: ₹3.5 LPA
+Notable Recruiters: YMPL, ROSAVA, Secure Meter, Krishna Maruti Ltd.; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: Govt. Polytechnic College, Udaipur, established in 2018, offers programs in Civil
+Engineering, Mechanical Engineering, and Electrical Engineering, each with an intake of
+54 students. The college is AICTE-approved and affiliated with the Board of Technical
+Education, Rajasthan, under the Department of Technical Education, Government of
+Rajasthan. The campus spans 2 hectares with a plinth area of 4,764 sq. m., completed by the
+Public Works Department, Udaipur, from March 2016 to December 2017, costing ₹677 lakh.
+The college features departments in Electrical Engineering, Civil Engineering, Mechanical
+Engineering, and Humanities, with experienced faculty like M.M. Porwal, Jitendra
+Bikaneria, and Dr. Mukesh Sahi. Scholarships available include AICTE
+Pragati/Saksham/Swanath, Post Matric Scholarships for SC/ST/OBC/EBC, and Minority
+Scholarships from the Ministry of Minority Affairs. In 2022-23, the college achieved 89
+placements, with the highest package being ₹3.5 LPA. Notable recruiters include YMPL,
+ROSAVA, Secure Meter, and Krishna Maruti Ltd. Lateral admissions are available for
+diploma holders, 10+2 with Science/Technical, and ITI, while first-year admission is open for
+10th pass candidates.
+__v: 0
+
+
+College: 40
+name: Government Ram Chandra Khaitan Polytechnic College, Jaipur
+administrator: admin40
+information: Government Ram Chandra Khaitan Polytechnic College, established in 1982 and located in Jhalana Institutional Area, Jaipur, offers 3-year diploma programs in various engineering specializations such as Architecture, Civil, Computer Science, Electronics and Communication, Mechanical Production, Mechanical RAC, and Mechanical Engineering. The college has a campus area of 10,570 sq. meters with a four-story educational building, 32 laboratories, a library with 26,000 books, two sports complexes, a cafeteria, and an auditorium. Admissions are merit-based, with an annual fee of ₹33,900. The college boasts a placement rate of 70-80%, with average salary packages ranging from ₹1 LPA to ₹3 LPA. For more information, contact the college at +91-141-2707829 or via email at gpc.jaipur@gmail.com.
+
+address: Jhalana Institutional Area, near RTO Office, Jaipur, Rajasthan
+contact: {'person': 'Main Office', 'phone': '+91-141-2707829', 'email': 'gpc.jaipur@gmail.com', '_id': ObjectId('67517410a2afdc4038b5fad1')}
+websites: {'name': '', 'link': '', '_id': ObjectId('67517410a2afdc4038b5fad2')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: Campus Area: 10,570 sq. m.
+Buildings: Four-story educational facility with:
+Classrooms
+32 well-equipped labs
+Conference halls and exhibition rooms
+Parking facility
+Facilities:
+Library: 26,000 books and 5 journals
+Sports Complex: Two sports complexes for recreational activities
+Cafeteria: On-campus dining facility
+Auditorium: Multi-functional hall for events
+Additional Amenities: Water harvesting system, yoga classes, and clean campus environment
+courses: {'name': 'Architecture', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': '10th pass with Science and Mathematics', '_id': ObjectId('67517410a2afdc4038b5fad3')}, {'name': 'Civil Engineering', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': '10th pass with Science and Mathematics', '_id': ObjectId('67518a914e472b6704802cda')}, {'name': 'Computer Science and Engineering', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': '10th pass with Science and Mathematics', '_id': ObjectId('67518a914e472b6704802cdb')}, {'name': 'Electronics and Communication Engineering', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': '10th pass with Science and Mathematics', '_id': ObjectId('67518a914e472b6704802cdc')}, {'name': 'Mechanical Production', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': '10th pass with Science and Mathematics', '_id': ObjectId('67518a914e472b6704802cdd')}, {'name': 'Mechanical RAC', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': '10th pass with Science and Mathematics', '_id': ObjectId('67518a914e472b6704802cde')}, {'name': 'Mechanical Engineering', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': '10th pass with Science and Mathematics', '_id': ObjectId('67518a914e472b6704802cdf')}, {'name': '', 'seats': '', 'fees': '₹33,900 annually', 'eligibility': '10th pass with Science and Mathematics', '_id': ObjectId('67518a914e472b6704802ce0')}
+admission_process: Eligibility: 10th pass with Science and Mathematics
+Basis of Admission: Merit-based
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: Placement Rate: 70-80%
+Average Salary Package: ₹1 LPA to ₹3 LPA
+Placement Activities: Begin in the third year with visits from engineering companies; other: Faculty: Experienced educators, many with Ph.D. qualifications
+Student Life: Conducive learning environment with recreational activities and yoga classes
+alumni: 
+events_activities: 
+governance: 
+other: Government Ram Chandra Khaitan Polytechnic College, Jaipur, was established in 1982 and is
+located in the Jhalana Institutional Area, near the RTO Office in Jaipur, Rajasthan. The college
+is affiliated with the Board of Technical Education, Rajasthan, and offers various diploma
+programs for students who have completed their 10th grade. The college has a total seat
+intake of 260 for its after-10th diploma courses, with an approximate tuition fee of ₹33,900.
+The programs offered include Diploma in Architecture, Diploma in Civil Engineering, Diploma
+in Computer Science and Engineering, Diploma in Electronics and Communication
+Engineering, Diploma in Mechanical Production, Diploma in Mechanical RAC, and Diploma in
+Mechanical Engineering. The college’s infrastructure includes a 10,570 square meter campus
+with a planned four-story educational building, featuring classrooms, labs, conference halls,
+exhibition rooms, and parking. Additional facilities include a well-stocked library with 26,000
+books and five journals, 32 labs across various departments, two sports complexes, a
+cafeteria, an auditorium, and a water harvesting facility. The placement rate at the college is
+around 70-80%, with average salary packages ranging from ₹1 LPA to ₹3 LPA. Placement
+activities begin in the third year, with companies visiting the campus for recruitment in
+engineering disciplines. The college is known for its experienced faculty, many of whom hold
+Ph.D. degrees. The campus provides a conducive learning environment with recreational
+activities, yoga classes, and a clean, well-maintained atmosphere. Admission is merit-based,
+and students must have completed their 10th grade with subjects in Science and
+Mathematics. For further inquiries, the college can be contacted at +91-141-2707829 or via
+email at gpc.jaipur@gmail.com.
+
+__v: 0
+
+
+College: 41
+name: Government Residential Women's Polytechnic, Jodhpur
+administrator: admin41
+information: Government Residential Women's Polytechnic, Jodhpur, offers various courses in Interior Decoration, Costume Design, Textile Design, Commercial Arts, Fashion and Textile Design, and Visual Graphics. The college provides hostel facilities for 24 girls with amenities like a common room, dining area, and ramp access for differently-abled students. It has a library with over 3,000 books and digital resources, including e-books and journals. Scholarships include AICTE's SWANATH, Pragati, and SAKSHAM schemes, as well as post-metric scholarships for SC/ST/OBC students. The college also hosts alumni meets and supports skill development for women.
+
+address: Gaurav Path, Residency Road, Jodhpur, Rajasthan
+
+contact: {'person': 'Nodal Officer: Parwati Gehlot, Lecturer (CSE)', 'phone': '09971005725', 'email': 'principal.gwpc.jdh@rajasthan.gov.in', '_id': ObjectId('67517428a2afdc4038b5fae0')}, {'person': '', 'phone': '0291-2430398', 'email': '', '_id': ObjectId('67518b424e472b6704802cf1')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gwpcjodhpur', '_id': ObjectId('67517428a2afdc4038b5fae1')}
+infrastructure: library: Books: 3,000+ titles
+Digital Access: E-books, journals, and articles from the National Digital Library
+E-Library Titles: 135
+Newspapers: Rajasthan Patrika, Dainik Bhaskar, Dainik Navjyoti, Times of India
+Magazines:
+Grihshobha, Pratiyogita Darpan, Femina, India Today, Nirogdham
+Journals:
+Architecture and Design, Elle Decor, Cosmopolitan, Vogue
+Additional Resources: Open Educational Resources, MOE SWAYAM
+Librarian: Mrs. Laxmi Soni; hostel: Hostel Facilities:
+Capacity for 24 girls (8 rooms, 3 beds per room)
+Common room, dining area, kitchen, first aid room
+Garden, vehicle parking, ramp access for differently-abled students
+Open to girls from other government institutions as part of the Skill Development Mission; canteen: ; sports: ; labs: ; classrooms: ; other: 
+courses: {'name': 'Interior Decoration', 'seats': '40+6', 'fees': '', 'eligibility': '', '_id': ObjectId('67517428a2afdc4038b5fae2')}, {'name': 'Costume Design & Dress Making', 'seats': '40+6', 'fees': '', 'eligibility': '', '_id': ObjectId('67518b424e472b6704802cf4')}, {'name': 'Textile Design', 'seats': '30', 'fees': '', 'eligibility': '', '_id': ObjectId('67518b424e472b6704802cf5')}, {'name': 'Commercial Arts', 'seats': '30', 'fees': '', 'eligibility': '', '_id': ObjectId('67518b424e472b6704802cf6')}, {'name': 'Fashion and Textile Design', 'seats': '30', 'fees': '', 'eligibility': '', '_id': ObjectId('67518b424e472b6704802cf7')}, {'name': 'Visual Graphics', 'seats': '30', 'fees': '', 'eligibility': '', '_id': ObjectId('67518b424e472b6704802cf8')}
+admission_process: Scholarships Available
+AICTE Scholarships:
+SWANATH Scheme:
+For diploma students
+₹50,000 per year (up to 1,000 scholarships annually)
+Pragati Scheme:
+For girls
+₹30,000 tuition fee support, ₹2,000 monthly allowance (2,000 scholarships annually)
+SAKSHAM Scheme:
+For specially-abled students
+SJE Rajasthan Scholarship:
+For SC/ST/OBC/Economically Weaker Sections
+Online managed, direct deposit into student accounts
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: Alumni Network
+Most Recent Alumni Meet: 29th April 2023 (for pass-outs from 1994 to 2022)
+Team Members:
+Ms. Labina Bano (Incharge)
+Ms. Renu Vyas, Ms. Vijayshree, Ms. Shobha Verma, Ms. Asha Soni
+
+events_activities: 
+governance: 
+other: Government Residential Women's Polytechnic, Jodhpur, is located on Gaurav Path, Residency
+Road, Jodhpur. The institute provides hostel facilities for girls, offering spacious and
+ventilated rooms with a common room, dining area, kitchen, first aid room, a small garden,
+vehicle parking, and ramp access for differently-abled girls. The hostel can accommodate 24
+girls in 8 rooms, with three beds per room, and is open to girls from other government
+institutions as part of the Government's Skill Development Mission. The college offers various
+programs, including Interior Decoration (40+6 seats), Costume Design & Dress Making (40+7
+seats), Textile Design (30 seats), Commercial Arts (30 seats), Fashion and Textile Design (30
+seats), and Visual Graphics (30 seats). The institute has a well-equipped library with 3,000
+books and provides access to e-books, journals, and articles from the National Digital Library,
+along with an E-Library section offering 135 titles. Daily newspapers like Rajasthan Patrika,
+Dainik Bhaskar, Dainik Navjyoti, and Times of India are available, along with magazines such
+as Grihshobha, Pratiyogita Darpan, Femina, India Today, and Nirogdham. Additionally,
+journals like Architecture and Design, Elle Decor, Cosmopolitan, and Vogue are accessible, as
+well as public resources like Open Educational Resources and MOE SWAYAM platforms. The
+librarian is Mrs. Laxmi Soni. The college fosters a strong alumni network, with the most
+recent Alumni Meet held on 29th April 2023 for pass-outs from 1994 to 2022. The team
+members include Ms. Labina Bano (Incharge), Ms. Renu Vyas, Ms. Vijayshree, Ms. Shobha
+Verma, and Ms. Asha Soni. Government Residential Women's Polytechnic, Jodhpur, offers
+several scholarship programs, such as AICTE scholarships including the SWANATH Scheme
+(up to 1,000 scholarships per year for diploma students, offering Rs. 50,000 per year), the
+Pragati Scheme (2,000 scholarships per annum for girls, offering Rs. 30,000 tuition fee
+support and Rs. 2,000 per month allowance), and the SAKSHAM Scheme for specially-abled
+students. The SJE Rajasthan Scholarship is also available for SC/ST/OBC and economically
+weaker students, managed online with direct deposit into student accounts. The Nodal Officer
+for the institute is Parwati Gehlot, a Lecturer in CSE, and she can be contacted at Phone -
+09971005725, Email - principal.gwpc.jdh@rajasthan.gov.in, or Fax - 0291-2430398. The site
+was last updated on 16/11/2024.
+__v: 0
+
+
+College: 42
+name: Government Women Polytechnic College, Ajmer
+administrator: admin42
+information: 
+address: 
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('6751746da2afdc4038b5faf3')}
+websites: {'name': '', 'link': '', '_id': ObjectId('6751746da2afdc4038b5faf4')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: 
+courses: {'name': '', 'seats': '', 'fees': '', 'eligibility': '', '_id': ObjectId('6751746da2afdc4038b5faf5')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: 
+__v: 0
+
+
+College: 43
+name: Government Women Polytechnic College, Bharatpur
+administrator: admin43
+information: Affordable Education:
+Uniform annual fee of ₹8,250 for all programs.
+Diverse Programs:
+Combines traditional arts (textile and costume design) with modern technology (cyber forensics and computer science).
+Focused Intake:
+Each program admits 30 students annually, ensuring personalized learning experiences.
+address: Near Dalmiya Dairy, NH-11, Bharatpur, Rajasthan, India
+contact: {'person': '', 'phone': '5644 - 5644297002', 'email': 'gwpc.bharatpur@gmail.com', '_id': ObjectId('6751747fa2afdc4038b5fafd')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gpcbharatpur', '_id': ObjectId('6751747fa2afdc4038b5fafe')}
+infrastructure: library: ; hostel: apacity for 24 girls (8 rooms, 3 beds per room)
+Common room, dining area, kitchen, first aid room
+Garden, vehicle parking, ramp access for differently-abled students
+Open to girls from other government institutions as part of the Skill Development Mission
+; canteen: ; sports: ; labs: ; classrooms: ; other: 
+courses: {'name': 'Textile Design', 'seats': '30 students\t', 'fees': '₹8,250/year', 'eligibility': '', '_id': ObjectId('6751747fa2afdc4038b5faff')}, {'name': 'Fashion Designing', 'seats': '30 students\t', 'fees': '₹8,250/year', 'eligibility': '', '_id': ObjectId('67518cf86384bd9487171cd8')}, {'name': 'Costume Design & Dress Making', 'seats': '30 students\t', 'fees': '₹8,250/year', 'eligibility': '', '_id': ObjectId('67518cf86384bd9487171cd9')}, {'name': 'Electrical Engineering', 'seats': '30 students\t', 'fees': '₹8,250/year', 'eligibility': '', '_id': ObjectId('67518cf86384bd9487171cda')}, {'name': 'Cyber Forensics & Information Security', 'seats': '30 students\t', 'fees': '₹8,250/year', 'eligibility': '', '_id': ObjectId('67518cf86384bd9487171cdb')}, {'name': 'Computer Science & Engineering\t', 'seats': '30 students\t', 'fees': '₹8,250/year', 'eligibility': '', '_id': ObjectId('67518cf86384bd9487171cdc')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: 
+
+Government Women Polytechnic College, Bharatpur, is conveniently located near Dalmiya
+Dairy along NH-11 in Bharatpur, Rajasthan, India. For additional inquiries, the institute can be
+contacted via phone at 5644 - 5644297002 or through email at gwpc.bharatpur@gmail.com.
+More details are accessible on the official website:
+www.hte.rajasthan.gov.in/college/gwpcbharatpur. Established with the aim of empowering
+women through technical education, Government Women Polytechnic College, Bharatpur,
+offers a range of diploma courses that blend creative arts and technology. The college
+provides a three-year, full-time diploma in textile design, which has been available since 2010
+and accommodates 30 students annually, charging a fee of INR 8,250 per year. Additionally, it
+offers a one-year, full-time diploma in fashion designing, introduced in 2020, which also has
+an intake of 30 students each year at a tuition fee of INR 8,250 per year. The college also runs
+a three-year diploma in costume design and dress making, with an annual intake of 30
+students since 2010, for the same fee of INR 8,250 per year. In the domain of engineering and
+technology, Government Women Polytechnic College, Bharatpur, offers a three-year, full-time
+diploma in electrical engineering, initiated in 2013, with an intake of 30 students and a yearly
+fee of INR 8,250. Another diploma program available is in cyber forensics and information
+security, which is a three-year course started in 2020, also admitting 30 students annually.
+Furthermore, Government Women Polytechnic College, Bharatpur, provides a three-year
+diploma in computer science and engineering, which has been available since 2010 and
+accommodates 30 students each year, with the same fee of INR 8,250 per year.
+__v: 0
+
+
+College: 44
+name: Government Women Polytechnic College, Bikaner
+administrator: admin44
+information: The college strives to empower women by providing high-quality technical education, emphasizing employability, innovation, and self-reliance. It aims to produce industry-ready professionals with a strong foundation in creativity and technical expertise.
+
+Let me know if further details or customizations are needed!
+address: Dungar College Road, Sadul Ganj, Bikaner, Rajasthan
+contact: {'person': 'Bhoomika Parmar (Lecturer, Computer Science Engineering)', 'phone': '151-2528874', 'email': '', '_id': ObjectId('6751749fa2afdc4038b5fb0c')}, {'person': '', 'phone': '0151-2528874', 'email': '', '_id': ObjectId('67518db7cf2c6ee420c99142')}, {'person': '', 'phone': '', 'email': '', '_id': ObjectId('67518db7cf2c6ee420c99143')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gwpcbikaner', '_id': ObjectId('6751749fa2afdc4038b5fb0d')}
+infrastructure: library: ; hostel: Hostel:
+Capacity: 89 students
+Amenities: Common rooms, DTH-equipped televisions, indoor games, fostering a conducive academic and personal growth environment.; canteen: ; sports: ; labs: Departmental Facilities:
+Electronics Engineering: Digital Lab, Computer Lab, Electronics Lab, Communication Lab.
+Textile and Costume Design: Workshops, seminars, industry-relevant training, and hands-on sessions.; classrooms: ; other: 
+courses: {'name': 'Electronics Engineering', 'seats': '30', 'fees': '', 'eligibility': '', '_id': ObjectId('6751749fa2afdc4038b5fb0e')}, {'name': 'Robotics Electronics', 'seats': '30', 'fees': '', 'eligibility': '', '_id': ObjectId('67518db7cf2c6ee420c99146')}, {'name': 'Costume Design & Dress Making', 'seats': '30', 'fees': '', 'eligibility': '', '_id': ObjectId('67518db7cf2c6ee420c99147')}, {'name': 'Textile Design', 'seats': '30', 'fees': '', 'eligibility': '', '_id': ObjectId('67518db7cf2c6ee420c99148')}
+admission_process: Post-Matric Scholarships: For SC/ST/OBC students, provided by the Social Justice Department, Rajasthan.
+National Scholarship Program: For minority students, supported by MeitY, Government of India
+cutoff: 
+placement: topRecruiters: ; statistics: Placement Records
+2022-2023
+Costume Design & Dress Making: 5 out of 10 placed; packages: ₹1.5L–₹2L.
+Textile Design: 7 out of 7 placed; package: ₹2L.
+Electronics Engineering: 2 out of 3 placed with SIGMA Jaipur; package: ₹2.5L.
+2021-2022
+Costume Design & Dress Making: 10 out of 27 placed; packages: ₹1.5L–₹3L.
+Textile Design: 5 out of 9 placed; package: ₹2L.
+Electronics Engineering: Most graduates pursued higher studies.
+2020-2021
+Costume Design & Dress Making: 10 out of 12 placed; packages: ₹1.4L–₹1.5L.
+Textile Design: 2 out of 4 placed; packages: ₹1.2L–₹1.8L.
+Electronics Engineering: 1 graduate placed; package: ₹2.5L.
+2019-2020
+Costume Design & Dress Making: 3 out of 11 placed; packages: ₹1.5L–₹2L.
+Textile Design: 3 out of 8 placed; packages: ₹1.5L–₹1.8L.; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: 
+__v: 0
+
+
+College: 45
+name: Government Women Polytechnic College, Jaipur
+administrator: admin45
+information: Establishment Year: 1981
+Motto: "It is great to be great, but it's greater to be human."
+
+Principal’s Focus:
+Aims to integrate creativity, technical proficiency, and personal growth for holistic student development.
+
+
+Academic Vision & Mission
+Vision: Empower women through quality education that combines employability skills with ethical values.
+Mission: Provide a well-rounded education emphasizing personal development, moral integrity, and hands-on technical expertise.
+address: 
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('675174b5a2afdc4038b5fb16')}, {'person': '', 'phone': '', 'email': '', '_id': ObjectId('67518e41cf2c6ee420c99157')}
+websites: {'name': '', 'link': '', '_id': ObjectId('675174b5a2afdc4038b5fb17')}
+infrastructure: library: ; hostel: Hostel Accommodation
+Capacity: 68 students
+Amenities:
+Furnished rooms
+Continuous water supply with solar water heating
+Visitor rooms and lawns
+Sports facilities for recreational activities
+First-aid services
+Psychological counseling support; canteen: ; sports: ; labs: ; classrooms: ; other: Campus Size: 2.259 acres
+
+Buildings:
+
+Academic Block
+Administrative Block
+Facilities:
+
+5 well-equipped classrooms
+50 laboratories
+4 display rooms
+50 faculty and administrative offices
+8 computer labs
+Library with a wide range of resources
+Seminar and conference halls
+Playgrounds, indoor games, and an open stage for extracurricular activities
+courses: {'name': '', 'seats': '', 'fees': '', 'eligibility': '', '_id': ObjectId('675174b5a2afdc4038b5fb18')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: 
+__v: 0
+
+
+College: 46
+name: Government Women Polytechnic College, Kota
+administrator: admin46
+information: Government Women Polytechnic College, Kota, located in Vigyan Nagar, offers programs in Fashion and Textile Design, Interior Decoration, Commercial Art, and Textile Design. The college, spread over 8.4755 acres, has modern facilities including a computer center with 92 computers and internet access. It provides hostel accommodation for 68 students and offers career-oriented courses with job opportunities in various design and textile sectors. The college also has a good placement record, with students securing positions in design firms and related industries. Scholarships are available under the TFWS for eligible students.
+
+
+
+address: Behind Maheshwari Bhawan, Vigyan Nagar, Kota, Rajasthan
+contact: {'person': 'Smt. Shikhi Jain', 'phone': '0744-2420313', 'email': 'gwpc.kota@rajasthan.gov.in', '_id': ObjectId('675174c9a2afdc4038b5fb20')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gwpckota', '_id': ObjectId('675174c9a2afdc4038b5fb21')}
+infrastructure: library: ; hostel: Hostel Capacity: 68 students, managed by Madhu Garg, promoting a cooperative living environment.
+; canteen: ; sports: ; labs: ; classrooms: ; other: Campus and Infrastructure
+Campus Size: 8.4755 acres
+Built-up Area: 2,982 sq. meters
+Computer Center: 92 computers with internet access
+courses: {'name': 'Interior Decoration', 'seats': '40 seats', 'fees': '', 'eligibility': 'Minimum secondary education (10th grade) is required for admission.', '_id': ObjectId('675174c9a2afdc4038b5fb22')}, {'name': 'Textile Design', 'seats': '30 seats', 'fees': '', 'eligibility': 'Minimum secondary education (10th grade) is required for admission.', '_id': ObjectId('67518f27cf2c6ee420c99166')}, {'name': 'Commercial Art', 'seats': '30 seats', 'fees': '', 'eligibility': 'Minimum secondary education (10th grade) is required for admission.', '_id': ObjectId('67518f27cf2c6ee420c99167')}, {'name': 'Fashion and Textile Design', 'seats': '30 seats', 'fees': '', 'eligibility': 'Minimum secondary education (10th grade) is required for admission.', '_id': ObjectId('67518f27cf2c6ee420c99168')}, {'name': 'Visual Graphics', 'seats': '30 seats', 'fees': '', 'eligibility': 'Minimum secondary education (10th grade) is required for admission.', '_id': ObjectId('67518f27cf2c6ee420c99169')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+Government Women Polytechnic College, Kota: Overview
+Location: Behind Maheshwari Bhawan, Vigyan Nagar, Kota, Rajasthan
+
+Nodal Officer:
+
+Name: Smt. Shikhi Jain
+Phone: 0744-2420313
+Email: gwpc.kota@rajasthan.gov.in
+Fax: 0744-2420313
+Academic Programs Offered
+The college offers a variety of technical and creative courses with a total of 160 seats:
+
+Interior Decoration: 40 seats
+Textile Design: 30 seats
+Commercial Art: 30 seats
+Fashion and Textile Design: 30 seats
+Visual Graphics: 30 seats
+Eligibility: Minimum secondary education (10th grade) is required for admission.
+
+Campus and Infrastructure
+Campus Size: 8.4755 acres
+Built-up Area: 2,982 sq. meters
+Computer Center: 92 computers with internet access
+Hostel Capacity: 68 students, managed by Madhu Garg, promoting a cooperative living environment.
+Programs and Career Opportunities
+Fashion and Textile Design (3-year course): Prepares students for careers in design-related fields, such as Design Directors and Fashion Illustrators.
+Interior Decoration: Trains students to become Interior Designers.
+Placement and Career Support
+The college has a strong placement record, with students securing roles in the design and media industries, offering opportunities in various creative and technical sectors.
+alumni: 
+events_activities: 
+governance: 
+other: Programs and Career Opportunities
+Fashion and Textile Design (3-year course): Prepares students for careers in design-related fields, such as Design Directors and Fashion Illustrators.
+Interior Decoration: Trains students to become Interior Designers.
+__v: 0
+
+
+College: 47
+name: Government Women Polytechnic College, Sanganer
+administrator: admin47
+information: Established: 2005-06 (Inaugurated in December 2006 by Honorable Chief Minister Smt. Vasundhara Raje)
+First Academic Session: 2006-07
+Initial Batch Graduated: 2009
+address: 
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('675174e0a2afdc4038b5fb2a')}
+websites: {'name': '', 'link': '', '_id': ObjectId('675174e0a2afdc4038b5fb2b')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: Campus Size: 10,570 sq. meters
+Building: Four-story educational building, with labs, conference hall, canteen, underground parking, exhibition rooms, and hostel facilities.
+Additional Facilities: Staff quarters, playgrounds, women’s hostel with 25-30 two-to-three bedded rooms, kitchen, pantry, dining hall, recreation room, open terrace, and parents' waiting room.
+Hostel Capacity: Accommodates up to 90 students.
+Administrative Spaces: Principal’s office, conference room, library, cafeteria, staff rooms, central storage, examination control room, and covered parking.
+courses: {'name': 'Costume Designing and Dress Making (CDDM)', 'seats': '40 seats', 'fees': '', 'eligibility': '', '_id': ObjectId('675174e0a2afdc4038b5fb2c')}, {'name': 'Interior Decoration (ID)', 'seats': '40 seats', 'fees': '', 'eligibility': '', '_id': ObjectId('6751903acf2c6ee420c99179')}, {'name': 'Textile Design (TD)', 'seats': '40 seats', 'fees': '', 'eligibility': '', '_id': ObjectId('6751903acf2c6ee420c9917a')}, {'name': 'Modern Office Management (MOM)', 'seats': '30 seats', 'fees': '', 'eligibility': '', '_id': ObjectId('6751903acf2c6ee420c9917b')}, {'name': 'Fashion and Apparel Design', 'seats': '30 seats', 'fees': '', 'eligibility': '', '_id': ObjectId('6751903acf2c6ee420c9917c')}, {'name': 'Textile Design', 'seats': '30 seats', 'fees': '', 'eligibility': '', '_id': ObjectId('6751903acf2c6ee420c9917d')}
+admission_process: Admission Details for 2024-25
+Diploma Courses: Applications open after 10th board results (RBSE/CBSE).
+Undergraduate Programs: Admissions conclude on 23/10/2024.
+Mode of Admission: Online applications (offline available if seats remain unfilled).
+
+Admissions Support Contacts
+Incharge: Smt. Mamta Jain
+Program Coordinators:
+CDDM: Smt. Prabha Kumari
+Computer Engineering: Sh. K.R. Yadav
+Textile Design: Smt. Vishakha Saini
+MOM: Sh. Dilip Meena
+Interior Design: Sh. Neeraj Kumar Garg
+CDDM: Smt. Payal Meena
+Operating Hours: 10:00 AM to 5:00 PM
+cutoff: 
+placement: topRecruiters: 
+Government Women Polytechnic College, Sanganer: Overview
+Established: 2005-06 (Inaugurated in December 2006 by Honorable Chief Minister Smt. Vasundhara Raje)
+First Academic Session: 2006-07
+Initial Batch Graduated: 2009
+
+Campus and Infrastructure
+Campus Size: 10,570 sq. meters
+Building: Four-story educational building, with labs, conference hall, canteen, underground parking, exhibition rooms, and hostel facilities.
+Additional Facilities: Staff quarters, playgrounds, women’s hostel with 25-30 two-to-three bedded rooms, kitchen, pantry, dining hall, recreation room, open terrace, and parents' waiting room.
+Hostel Capacity: Accommodates up to 90 students.
+Administrative Spaces: Principal’s office, conference room, library, cafeteria, staff rooms, central storage, examination control room, and covered parking.
+Academic Programs Offered
+Diploma Programs:
+
+Costume Designing and Dress Making (CDDM): 40 seats
+Interior Decoration (ID): 40 seats
+Textile Design (TD): 40 seats
+Modern Office Management (MOM): 30 seats
+Undergraduate Programs (Affiliated with Rajasthan Technical University - RTU, Kota):
+
+Fashion and Apparel Design: 30 seats
+Textile Design: 30 seats
+Eligibility: Secondary education (10th grade) for diploma courses; undergraduate admissions conclude on 23/10/2024.
+
+Admission Details for 2024-25
+Diploma Courses: Applications open after 10th board results (RBSE/CBSE).
+Undergraduate Programs: Admissions conclude on 23/10/2024.
+Mode of Admission: Online applications (offline available if seats remain unfilled).
+Placement Records (2021-2024)
+Costume Designing and Dress Making (CDDM): 25 students graduated in 2023-24; 21 secured placements at companies like Vasansi, Aryavratt, K.B. Creations, and ATDC.
+Interior Decoration (ID): 100% placement for 13 graduates in 2023-24 at The Design Ethos and Creative Concepts.
+Textile Design (TD): 8 out of 15 graduates placed at Natural Fibres Export and Miyan Bajaj Exports.
+Modern Office Management (MOM): Consistent placement success for graduates.
+; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: Government Women Polytechnic College, Sanganer, established in 2005-06 and officially
+inaugurated in December 2006 by Honorable Chief Minister Smt. Vasundhara Raje, began its
+first academic session in 2006-07 and graduated its initial batch in 2009. Situated on a
+10,570 square meter campus, the college boasts a four-story educational building that
+includes well-equipped labs, a conference hall, canteen, underground parking, and
+exhibition rooms. The campus is also home to hostels, staff quarters, and playgrounds,
+fostering an environment that supports both academic and personal growth.
+Recognized by the AICTE under the Ministry of Human Resource Development (MHRD),
+Government Women Polytechnic College, Sanganer is dedicated to providing high-quality
+technical education. The college offers diploma programs such as Costume Designing and
+Dress Making (CDDM) (40 students intake), Interior Decoration (ID) (40 intake), Textile
+Design (TD) (40 intake), and Modern Office Management (MOM) (30 intake). Additionally,
+undergraduate programs affiliated with Rajasthan Technical University (RTU), Kota,
+include Fashion and Apparel Design and Textile Design, each admitting 30 students.
+Admissions for diploma courses are open to students with a secondary education, with no age
+restrictions. For the 2024-25 academic year, diploma course applications will start after the
+10th board results (RBSE/CBSE), and undergraduate admissions conclude on 23/10/2024.
+Admissions can be completed online, with offline options available if seats remain unfilled.
+The college's facilities include essential academic and administrative spaces such as the
+Principal’s office, administrative office, conference room, library, cafeteria, women’s
+hostel, staff rooms, central storage, examination control room, and covered parking.
+The hostel, a multi-story building, features 25-30 two-to-three bedded rooms
+accommodating up to 90 students, along with a reception area, parents' waiting room,
+kitchen and pantry, dining hall, recreation room, and an open terrace.
+Academic success is reflected in the college’s placement records. Between 2021-2024,
+significant placement achievements were reported across its programs. The CDDM program
+graduated 25 students in 2023-24, with 21 securing placements at reputable firms like
+Vasansi, Aryavratt, K.B. Creations, and ATDC. The Interior Decoration (ID) program
+reported 100% placement for its 13 graduates in 2023-24, with placements at firms such as
+The Design Ethos and Creative Concepts. In Textile Design (TD), 8 out of 15 graduates
+found positions in prominent textile companies, including Natural Fibres Export and Miyan
+Bajaj Exports. The Modern Office Management (MOM) program has also seen consistent
+placement success.
+The Admissions Cell at Government Women Polytechnic College, Sanganer, supports
+prospective students with guidance and information. Key personnel include Smt. Mamta Jain
+(Incharge), Smt. Prabha Kumari for CDDM, Sh. K.R. Yadav for Computer Engineering, Smt.
+Vishakha Saini for Textile Design, Sh. Dilip Meena for MOM, Sh. Neeraj Kumar Garg for
+Interior Design, and Smt. Payal Meena for CDDM. They are available from 10:00 AM to 5:00
+PM to assist with admissions and inquiries.
+__v: 0
+
+
+College: 48
+name: Government Women Polytechnic College, Udaipur
+administrator: admin48
+information: Vision and Mission
+The college aims to create flexible learning environments, continuously redesigning course content to meet industry demands while empowering both students and faculty.
+
+
+address: Pratapnagar, Udaipur-313001, Rajasthan
+contact: {'person': 's. Durgesh Nandini Bais', 'phone': '0294 2491575', 'email': 'gwpc.udaipur@gmail.com', '_id': ObjectId('675174faa2afdc4038b5fb34')}
+websites: {'name': '', 'link': 'http://hte.rajasthan.gov.in/college/gwpcudaipur', '_id': ObjectId('675174faa2afdc4038b5fb35')}
+infrastructure: library: Library: 4,022 books; hostel: ; canteen: ; sports: ; labs: Central Computer Lab: 25 computers with internet access
+Specialized Labs:
+Beauty Culture Lab
+Hair Dressing Lab
+Body Perfection & Yoga Lab
+Cosmetic Science Lab; classrooms: ; other: Campus Size: 3.5 acres
+Built-up Area: 3,196 sq. meters
+Instructional Area: 2,021 sq. meters
+Administrative Area: 409 sq. meters
+Amenities Area: 766 sq. meters
+courses: {'name': 'Beauty Culture', 'seats': '2-year program, 40 seats', 'fees': '', 'eligibility': 'Minimum of 10th-grade education (no age restrictions)', '_id': ObjectId('675174faa2afdc4038b5fb36')}, {'name': 'Interior Decoration', 'seats': '3-year program, 40 seats', 'fees': '', 'eligibility': 'Minimum of 10th-grade education (no age restrictions)', '_id': ObjectId('6751919acf2c6ee420c9918e')}, {'name': 'Textile Design', 'seats': '3-year program, 40 seats', 'fees': '', 'eligibility': 'Minimum of 10th-grade education (no age restrictions)', '_id': ObjectId('6751919acf2c6ee420c9918f')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: ; statistics: 2021-22: 17 graduates; 15 placements (88% success rate)
+2020-21: 14 graduates; 10 placements (71% success rate)
+2019-20: 8 graduates; 5 placements (62% success rate); averagePackages: ; other: 
+alumni: 
+events_activities: Industry Exposure: Local industry visits, expert lectures, workshops, and educational tours.
+Entrepreneurial Development: Camps for final-year students to enhance career readiness.
+Co-Curricular Activities: Personality development seminars, debates, quizzes, specialized training, and workshops.
+Extra-Curricular Activities: Cultural programs, dance, singing, drama, and celebrations of national events (e.g., Vivekanand Jayanti, Teacher’s Day).
+NSS Participation and Sports Events are encouraged.
+governance: 
+other: Government Women Polytechnic College, Udaipur, was established in 1986 and relocated
+to Pratapnagar in 1997. This institution specializes in diploma courses, offering programs in
+Beauty Culture (a 2-year course), Interior Decoration (a 3-year course), and Textile
+Design (a 3-year course), with a total intake capacity of 120 students. The college is
+dedicated to providing quality technical education to empower women. Its campus spans 3.5
+acres with a built-up area of 3,196 square meters, including 2,021 square meters for
+instructional use, 409 square meters for administrative purposes, and 766 square meters for
+amenities. The college's infrastructure is designed to support academic and extracurricular
+activities.
+Admission eligibility requires at least a 10th-grade education or its equivalent, with no age
+restrictions. The courses offered are Beauty Culture (40 seats), Interior Decoration (40
+seats), and Textile Design (40 seats). To enrich students’ learning, the college organizes local
+industry visits, expert lectures, workshops, educational tours, and industry collaborations
+that facilitate placements. Entrepreneurial development camps are also conducted for finalyear students to prepare them for career opportunities.
+The college promotes co-curricular activities for personal and professional growth, including
+personality development seminars, debates, quizzes, specialized training, and workshops.
+Extra-curricular activities such as cultural programs, dance, singing, drama, and celebrations
+of national events like Vivekanand Jayanti and Teacher's Day are common. The college also
+encourages participation in the National Service Scheme (NSS) and various sports events.
+Facilities include a library with 4,022 books, a central computer lab with 25 computers and
+internet access, and specialized labs for different courses: Beauty Culture Lab, Hair
+Dressing Lab, Body Perfection & Yoga Lab, and Cosmetic Science Lab for practical
+training. The college has a strong placement record, with 17 graduates in 2021-22, 15 of
+whom were placed (88% success rate). In 2020-21, 14 graduates had 10 placements (71%),
+and in 2019-20, 8 graduates had 5 placements (62%).
+The vision of Government Women Polytechnic College, Udaipur, is to create flexible learning
+environments and empower faculty, continuously redesigning course content to align with
+industry demands. The principal, Ms. Durgesh Nandini Bais, can be contacted at 0294
+2491575 or via email at gwpc.udaipur@gmail.com. The college is located in Pratapnagar,
+Udaipur-313001, Rajasthan.
+__v: 0
+
+
+College: 49
+name: Shri Gokul Verma Government Polytechnic College, Bharatpur
+administrator: admin49
+information: Shri Gokul Verma Government Polytechnic College, Bharatpur, established in 1984, is located 8 km from Bharatpur Railway Station and 1.5 km from Keoladeo National Park. The college spans 11.81 acres and offers programs in Civil, Electrical, and Mechanical Engineering with a total intake capacity of 420 students. The college provides lateral admissions and scholarships like the Department of Social Justice & Empowerment Scholarships, AICTE Scholarships, and Vidyasaarthi Scholarship (NSDL). It also runs skill development programs under the CDTP Scheme, focusing on disadvantaged communities. The campus includes well-equipped labs in various engineering and science disciplines.
+
+Departments Offered
+Civil Engineering
+
+Lecturers: Tarun Kumar Tiwari, Sandeep Sharma, Gaurav Kumar Jatav
+Labs: Applied Mechanics, AutoCAD, Concrete, Engineering Drawing, Public Health, Soil Mechanics, Strength of Materials, Surveying, Transportation
+Intake Capacity: 180 students
+Electrical Engineering
+
+Lecturers: Anand Sharma, Rajesh Kumar Goyal, Mahendra Kumar Sharma, Renu Agrawal, Devesh Mishra, Vedveer Singh Choudhary, Gaurav Kumar Yadav
+Technical Staff: Anil Kumar Chaturvedi
+Intake Capacity: 120 students
+Mechanical Engineering
+
+Lecturers: Vikram Singh
+Technical Staff: Bachchu Singh Meena, Girraj Prasad
+Labs: AutoCAD, Automobile, CNC, Carpentry Shop, Fitting Shop, Hydraulics, Machine Shop, Mechanical Engineering/Heat Engine, Metrology, Refrigeration & Air Conditioning, Sheet Metal, Welding
+Intake Capacity: 120 students
+Science & Humanities
+
+Lecturer: Hari Lal Meena (M.Sc. Chemistry)
+PTI: Babu Lal Nagar
+Labs: Chemistry, English Language, Physics
+
+Skill Development & CDTP Scheme
+Focus on skill development for disadvantaged sections of society.
+Ongoing programs: House Wiring & Motor Winding, Data Entry, Cutting & Tailoring, IT & Communication
+
+Total Intake Capacity
+Civil Engineering: 180 students
+Electrical Engineering: 120 students
+Mechanical Engineering: 120 students
+Total Capacity: 420 students
+address: NH-11, Bharatpur, Rajasthan (8 km from Bharatpur Railway Station, 1.5 km from Keoladeo National Park)
+contact: {'person': ' Devesh Mishra (Lecturer in Computer Engineering)', 'phone': '5644297015', 'email': 'gpc.bharatpur@rajasthan.gov.in', '_id': ObjectId('67517537a2afdc4038b5fb44')}, {'person': '', 'phone': 'Fax - 0564-4297015', 'email': '', '_id': ObjectId('67519252cf2c6ee420c9919b')}
+websites: {'name': '', 'link': '', '_id': ObjectId('67517537a2afdc4038b5fb45')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: 
+courses: {'name': 'Civil Engineering', 'seats': '180 students', 'fees': '', 'eligibility': '', '_id': ObjectId('67517537a2afdc4038b5fb46')}, {'name': 'Electrical Engineering', 'seats': ' 120 students', 'fees': '', 'eligibility': '', '_id': ObjectId('67519252cf2c6ee420c9919e')}, {'name': 'Mechanical Engineering', 'seats': ' 120 students', 'fees': '', 'eligibility': '', '_id': ObjectId('67519252cf2c6ee420c9919f')}, {'name': 'Science & Humanities', 'seats': '', 'fees': '', 'eligibility': '', '_id': ObjectId('67519252cf2c6ee420c991a0')}
+admission_process: Admissions
+Lateral admissions available through the Department of Technical Education (DTE).
+
+Scholarships
+Department of Social Justice & Empowerment Scholarships
+AICTE Scholarships
+Vidyasaarthi Scholarship (NSDL)
+
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: 
+__v: 0
+
+
+College: 50
+name: Sh Gokul Bhai Bhatt Government Polytechnic College, Sirohi
+administrator: admin50
+information: 
+address: 
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('6751754ba2afdc4038b5fb4e')}
+websites: {'name': '', 'link': '', '_id': ObjectId('6751754ba2afdc4038b5fb4f')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: 
+courses: {'name': '', 'seats': '', 'fees': '', 'eligibility': '', '_id': ObjectId('6751754ba2afdc4038b5fb50')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: 
+__v: 0
+
+
+College: 51
+name: Teachers Training Center and Learning Resource Development Center (TTC & LRDC), Jodhpur
+administrator: admin51
+information: ### **Teachers Training Center (TTC) & Learning Resource Development Center (LRDC)**
+
+**Established:** 1991 under a World Bank-aided project aimed at modernizing teaching methods and enhancing technical education.
+
+---
+
+### **Objectives & Key Functions**
+
+- **Learning Resource Development Center (LRDC):**  
+  The LRDC focuses on creating advanced teaching materials to enhance students’ industrial skills. These include:
+  - PowerPoint presentations
+  - Lab manuals
+  - Question banks
+  - Charts, 3D models
+  - Video lectures  
+
+  These resources, especially video lectures, are planned to be delivered through Interactive Class Terminals (ICT) for an interactive learning experience. Core subject lab manuals include Applied Physics, Applied Chemistry, Applied Mechanics, and Strength of Materials (for Civil/Mechanical Engineering).
+
+- **Teachers Training Center (TTC):**  
+  The TTC aims to enhance technical education through human resource development. Its key activities include:
+  - Conducting induction programs for new lecturers
+  - Offering short-term courses to update faculty knowledge in engineering, technology, sciences, and management
+  - Organizing workshops, seminars, and conferences on current technical education topics
+
+  TTC also collaborates with the CDC, LRDC, Industry-Institute Interaction Cells, and other technical institutions to foster educational development throughout Rajasthan.
+
+---
+
+### **Digital Content Development Initiative**
+
+The TTC and LRDC jointly focus on creating digital content for core subjects. This includes:
+  - Video lectures
+  - Interactive charts and models
+  - Downloadable question papers and e-notes for students
+
+The content is freely available on their platforms and is produced by DTE Rajasthan faculty. It can be reproduced for non-commercial purposes with proper attribution.
+
+---
+
+### **Privacy & Disclaimer**
+
+- The TTC & LRDC platforms provide non-commercial, free educational resources, with no user registration required.
+- They do not collect personal data or use cookies.
+- While the materials' quality and accuracy are prioritized, the centers are not liable for any damages resulting from their use.
+
+---
+
+### **Summary**
+
+The TTC and LRDC, established in 1991 under a World Bank project, aim to enhance technical education by developing innovative learning resources and training faculty. LRDC creates advanced teaching materials such as video lectures, lab manuals, and interactive models. The TTC focuses on faculty development, offering programs to update knowledge and skills in technical education. The centers also produce digital content and ensure access to free, non-commercial resources for students and educators in Rajasthan.
+address: 
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('6751757ba2afdc4038b5fb62')}
+websites: {'name': '', 'link': '', '_id': ObjectId('6751757ba2afdc4038b5fb63')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: 
+courses: {'name': '', 'seats': '', 'fees': '', 'eligibility': '', '_id': ObjectId('6751757ba2afdc4038b5fb64')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: Teachers Training Center (TTC) and Learning Resource Development Center (LRDC) were
+established in 1991 under a World Bank-aided project aimed at modernizing teaching
+methods and developing innovative learning resources to enhance technical education. The
+LRDC focuses on creating advanced teaching materials to develop students' industrial skills,
+including PowerPoint resources, lab manuals, question banks, charts, 3D models, and video
+lectures. Video lectures are planned to be delivered through Interactive Class Terminals (ICT)
+for an interactive learning experience. Lab manuals for core subjects like Applied Physics,
+Applied Chemistry, Applied Mechanics, and Strength of Materials (Civil/Mechanical
+Engineering) are among the resources available. The TTC aims to enhance technical
+education through human resource development, with key objectives such as conducting
+induction programs for new lecturers, offering short-term courses to update faculty
+knowledge in engineering, technology, sciences, and management, and organizing workshops,
+seminars, and conferences on significant issues in technical education. The TTC collaborates
+with CDC, LRDC, Industry-Institute Interaction Cells, and technical institutions to support
+educational development throughout Rajasthan. The Digital Content Development initiative
+at TTC & LRDC includes the production of video lectures for core subjects, interactive charts
+and models, and downloadable question papers and e-notes for student use. The privacy
+policy for TTC & LRDC platforms ensures that they offer free, non-commercial educational
+resources without requiring user registration. All content is produced by DTE Rajasthan
+faculty and may be reproduced for non-commercial purposes with proper attribution. The
+platforms do not collect personal data or use cookies. The disclaimer states that while the
+quality and accuracy of the materials are prioritized, the centers are not liable for any
+damages resulting from their use.
+__v: 0
+
+
+College: 52
+name: IIT Bombay 
+administrator: mscmnm
+information: 
+address: 
+contact: {'person': '', 'phone': '', 'email': '', '_id': ObjectId('675ac9fe320391f081bc382d')}
+websites: {'name': '', 'link': '', '_id': ObjectId('675ac9fe320391f081bc382e')}
+infrastructure: library: ; hostel: ; canteen: ; sports: ; labs: ; classrooms: ; other: 
+courses: {'name': '', 'seats': '', 'fees': '', 'eligibility': '', '_id': ObjectId('675ac9fe320391f081bc382f')}
+admission_process: 
+cutoff: 
+placement: topRecruiters: ; statistics: ; averagePackages: ; other: 
+alumni: 
+events_activities: 
+governance: 
+other: 
+__v: 0
+
+
