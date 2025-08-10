@@ -76,7 +76,7 @@ python main.py
 
 ## Maintainers
 - Kiran Nandi
-- Jayraj Jadhav
+- Om Panchal
 
 ---
 
